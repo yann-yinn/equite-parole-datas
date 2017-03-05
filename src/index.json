@@ -5,11 +5,14 @@
       "TF1": {
         "candidat": [0, 14, 14],
         "soutiens": [0, 3, 17],
-        "antenne": [0, 36, 41]
+        "total_temps_de_parole": [0, 17, 31],
+        "antenne": [0, 36, 41],
+        "total_temps_antenne": [0, 34, 53]
       },
       "France 2": {
         "candidat": [0, 12, 50],
         "soutiens": [0, 13, 36],
+        "total_temps_de_parole": "0h 43min 48s",
         "antenne": [0, 32, 48]
       },
       "France 3": {
