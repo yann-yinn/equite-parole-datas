@@ -1,95 +1,79 @@
-Candidat;Durées cumulées sur la période;En % sur la période;
-ALLIOT MARIE MICHELE;;;
-Candidat;00:00:23;0.74%;
-Soutiens;00:00:00;0.00%;
-Total Temps de parole;00:00:23;0.19%;
-Antenne;00:00:00;0.00%;
-Total Temps d'antenne;00:00:23;0.13%;
-BAYROU FRANCOIS (soutien d'E. Macron à partir du 22/02);;;
-Candidat;00:01:13;2.34%;
-Soutiens;00:00:00;0.00%;
-Total Temps de parole;00:01:13;0.59%;
-Antenne;00:10:09;11.80%;
-Total Temps d'antenne;00:11:22;3.90%;
-DUPONT AIGNAN NICOLAS;;;
-Candidat;00:07:41;14.79%;
-Soutiens;00:00:15;0.16%;
-Total Temps de parole;00:07:56;3.86%;
-Antenne;00:00:00;0.00%;
-Total Temps d'antenne;00:07:56;2.72%;
-FILLON FRANCOIS;;;
-Candidat;00:08:12;15.78%;
-Soutiens;00:40:25;26.28%;
-Total Temps de parole;00:48:37;23.63%;
-Antenne;00:20:55;24.33%;
-Total Temps d'antenne;01:09:32;23.84%;
-HAMON BENOIT;;;
-Candidat;00:03:28;6.67%;
-Soutiens;00:50:54;33.10%;
-Total Temps de parole;00:54:22;26.43%;
-Antenne;00:03:40;4.26%;
-Total Temps d'antenne;00:58:02;19.89%;
-JADOT YANNICK (soutien de B. Hamon à partir du 23/02);;;
-Candidat;00:00:18;0.58%;
-Soutiens;00:07:29;4.87%;
-Total Temps de parole;00:07:47;3.78%;
-Antenne;00:00:00;0.00%;
-Total Temps d'antenne;00:07:47;2.67%;
-LASSALLE JEAN;;;
-Candidat;00:08:31;16.39%;
-Soutiens;00:00:00;0.00%;
-Total Temps de parole;00:08:31;4.14%;
-Antenne;00:00:00;0.00%;
-Total Temps d'antenne;00:08:31;2.92%;
-LE PEN MARINE;;;
-Candidat;00:03:22;6.48%;
-Soutiens;00:18:00;11.71%;
-Total Temps de parole;00:21:22;10.39%;
-Antenne;00:06:55;8.04%;
-Total Temps d'antenne;00:28:17;9.70%;
-MACRON EMMANUEL;;;
-Candidat;00:04:50;9.30%;
-Soutiens;00:15:40;10.19%;
-Total Temps de parole;00:20:30;9.96%;
-Antenne;00:42:39;49.60%;
-Total Temps d'antenne;01:03:09;21.65%;
-MELENCHON JEAN LUC;;;
-Candidat;00:03:37;6.96%;
-Soutiens;00:21:03;13.69%;
-Total Temps de parole;00:24:40;11.99%;
-Antenne;00:01:41;1.96%;
-Total Temps d'antenne;00:26:21;9.03%;
-POUTOU PHILIPPE;;;
-Candidat;00:00:13;0.42%;
-Soutiens;00:00:00;0.00%;
-Total Temps de parole;00:00:13;0.11%;
-Antenne;00:00:00;0.00%;
-Total Temps d'antenne;00:00:13;0.07%;
-YADE RAMA;;;
-Candidat;00:10:10;19.56%;
-Soutiens;00:00:00;0.00%;
-Total Temps de parole;00:10:10;4.94%;
-Antenne;00:00:00;0.00%;
-Total Temps d'antenne;00:10:10;3.49%;
-Total candidats;;;
-Candidat;00:51:58;100.00%;
-Soutiens;02:33:46;100.00%;
-Total Temps de parole;03:25:44;100.00%;
-Antenne;01:25:59;100.00%;
-Total Temps d'antenne;04:51:43;100.00%;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
+Candidat,DurÃ©es cumulÃ©es sur la pÃ©riode,En % sur la pÃ©riode,
+ALLIOT MARIE MICHELE,,,
+Candidat,00:00:23,0.74%,
+Soutiens,00:00:00,0.00%,
+Total Temps de parole,00:00:23,0.19%,
+Antenne,00:00:00,0.00%,
+Total Temps d'antenne,00:00:23,0.13%,
+BAYROU FRANCOIS (soutien d'E. Macron Ã  partir du 22/02),,,
+Candidat,00:01:13,2.34%,
+Soutiens,00:00:00,0.00%,
+Total Temps de parole,00:01:13,0.59%,
+Antenne,00:10:09,11.80%,
+Total Temps d'antenne,00:11:22,3.90%,
+DUPONT AIGNAN NICOLAS,,,
+Candidat,00:07:41,14.79%,
+Soutiens,00:00:15,0.16%,
+Total Temps de parole,00:07:56,3.86%,
+Antenne,00:00:00,0.00%,
+Total Temps d'antenne,00:07:56,2.72%,
+FILLON FRANCOIS,,,
+Candidat,00:08:12,15.78%,
+Soutiens,00:40:25,26.28%,
+Total Temps de parole,00:48:37,23.63%,
+Antenne,00:20:55,24.33%,
+Total Temps d'antenne,01:09:32,23.84%,
+HAMON BENOIT,,,
+Candidat,00:03:28,6.67%,
+Soutiens,00:50:54,33.10%,
+Total Temps de parole,00:54:22,26.43%,
+Antenne,00:03:40,4.26%,
+Total Temps d'antenne,00:58:02,19.89%,
+JADOT YANNICK (soutien de B. Hamon Ã  partir du 23/02),,,
+Candidat,00:00:18,0.58%,
+Soutiens,00:07:29,4.87%,
+Total Temps de parole,00:07:47,3.78%,
+Antenne,00:00:00,0.00%,
+Total Temps d'antenne,00:07:47,2.67%,
+LASSALLE JEAN,,,
+Candidat,00:08:31,16.39%,
+Soutiens,00:00:00,0.00%,
+Total Temps de parole,00:08:31,4.14%,
+Antenne,00:00:00,0.00%,
+Total Temps d'antenne,00:08:31,2.92%,
+LE PEN MARINE,,,
+Candidat,00:03:22,6.48%,
+Soutiens,00:18:00,11.71%,
+Total Temps de parole,00:21:22,10.39%,
+Antenne,00:06:55,8.04%,
+Total Temps d'antenne,00:28:17,9.70%,
+MACRON EMMANUEL,,,
+Candidat,00:04:50,9.30%,
+Soutiens,00:15:40,10.19%,
+Total Temps de parole,00:20:30,9.96%,
+Antenne,00:42:39,49.60%,
+Total Temps d'antenne,01:03:09,21.65%,
+MELENCHON JEAN LUC,,,
+Candidat,00:03:37,6.96%,
+Soutiens,00:21:03,13.69%,
+Total Temps de parole,00:24:40,11.99%,
+Antenne,00:01:41,1.96%,
+Total Temps d'antenne,00:26:21,9.03%,
+POUTOU PHILIPPE,,,
+Candidat,00:00:13,0.42%,
+Soutiens,00:00:00,0.00%,
+Total Temps de parole,00:00:13,0.11%,
+Antenne,00:00:00,0.00%,
+Total Temps d'antenne,00:00:13,0.07%,
+YADE RAMA,,,
+Candidat,00:10:10,19.56%,
+Soutiens,00:00:00,0.00%,
+Total Temps de parole,00:10:10,4.94%,
+Antenne,00:00:00,0.00%,
+Total Temps d'antenne,00:10:10,3.49%,
+Total candidats,,,
+Candidat,00:51:58,100.00%,
+Soutiens,02:33:46,100.00%,
+Total Temps de parole,03:25:44,100.00%,
+Antenne,01:25:59,100.00%,
+Total Temps d'antenne,04:51:43,100.00%,
