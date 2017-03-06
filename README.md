@@ -1,4 +1,4 @@
-#CSA - (en cours de dev) données au format JSON et CSV des temps de parole et d'antenne des candidats à la présidentielle 2017
+#CSA - [en cours de dev] données au format JSON et CSV des temps de parole et d'antenne des candidats à la présidentielle 2017
 
 Le CSA (http://www.csa.fr) doit mettre à disposition de toutes et tous les fichiers des temps de parole et d'antenne pour les candidats à la présidentielle. Hélas, le format de données choisi (xlxs) et son organisation ne permettent pas un traitement aisé des données pour les transformer en graphiques; obligeant journalistes et particuliers à de fastidieux copier-coller prenant des heures pour pouvoir exploiter réellement les données.
 
