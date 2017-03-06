@@ -7,8 +7,9 @@ Ce projet s'occupe de ce traitement en amont et met à disposition de toutes et 
 En cours de développement, une première version exploitable pour ces données du mois de Février est prévue dès cette semaine. Un site web l'accompagnera avec des graphiques de base pour visualiser facilement l'équité des temps de parole et d'antenne.
 
 Les formats prévus :
-- des json simples pour permettre d'interroger les données par webservice
-- les versions csv des fichiers excels (déjà visibles pour les chaînes généralistes : https://github.com/nyl-auster/csa-temps-de-parole/tree/master/src/2017-02-01--2017-02-26/csv/chaines-generalistes)
+* des json simples pour permettre d'interroger les données par webservice
+* les versions csv des fichiers excels (déjà visibles pour les chaînes généralistes : https://github.com/nyl-auster/csa-temps-de-parole/tree/master/src/2017-02-01--2017-02-26/csv/chaines-generalistes)
+
 Sources :
 http://www.csa.fr/Television/Le-suivi-des-programmes/Le-pluralisme-politique-et-les-campagnes-electorales/L-election-presidentielle-2017/Les-temps-de-parole-et-d-antenne
 
