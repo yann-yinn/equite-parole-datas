@@ -5,11 +5,12 @@ from os import listdir
 from os.path import isdir, isfile, join
 from python_builder.Config import Config
 from python_builder.Generator import Generator
+from python_builder.ExcelExtractor import ExcelExtractor
 
 class Main:
 
 	def __init__(self):
-		Config.root(__file__)
+		Config.root(os.path.realpath(__file__))
 
 		src = Config.ROOT+Config.SOURCES
 		intervals = [f for f in listdir(src) if isdir(join(src, f))]
@@ -27,5 +28,10 @@ class Main:
 				for source in sources:
 					generator.addFile(sources_path + source)
 				generator.writeFile()
+
+			originaux_path =src + interval + "/" + Config.ORIGIN
+			originaux = [f for f in listdir(originaux_path) if isfile(join(originaux_path, f))]
+			for original in originaux:
+				excelExtractor = ExcelExtractor(originaux_path + original)
 
 Main()

@@ -12,3 +12,15 @@ Les formats prévus :
 Sources :
 http://www.csa.fr/Television/Le-suivi-des-programmes/Le-pluralisme-politique-et-les-campagnes-electorales/L-election-presidentielle-2017/Les-temps-de-parole-et-d-antenne
 
+# Python
+
+## Requis :
+
+- Python3.4
+- OpenPyXL
+
+## Build :
+Dans un terminal :
+```shell
+/usr/bin/python3.4 Main.py
+```

@@ -5,6 +5,7 @@ class Config:
 	ROOT = ""
 	SOURCES = "src/"
 	PARSED = "csv/"
+	ORIGIN = "originaux/"
 	DIST = "dist/"
 
 	@staticmethod
