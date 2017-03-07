@@ -1,0 +1,58 @@
+{ // Vision d'ensemble pour toute les chaines généralistes
+  "0" : {
+    "nom" : "Emmanuel Macron",
+    "soutiens" : {
+      "temps" : "0h 01min 00s", // Affichable
+      "secondes" : "60", // secondes
+      "pourcentage" : "20%"
+    },
+    "candidat" : {
+      "temps" : "0h 01min 00s", // Affichable
+      "secondes" : "60", // secondes
+      "pourcentage" : "20%"
+    },
+    "total_temps_de_parole": { // soutiens + candidat
+      "temps" : "0h 01min 00s", // Affichable
+      "secondes" : "60", // secondes
+      "pourcentage" : "20%"
+    },
+    "antenne" : {
+      "temps" : "0h 01min 00s", // Affichable
+      "secondes" : "60", // secondes
+      "pourcentage" : "20%"
+    },
+    "total_temps_antenne": { // antenne + temps de paroles
+      "temps" : "0h 01min 00s", // Affichable
+      "secondes" : "60", // secondes
+      "pourcentage" : "20%"
+    }
+  },
+  "2" : {
+    "nom" : "Philippe Poutou",
+    "soutiens" : {
+      "temps" : "0h 00min 03s", // Affichable
+      "secondes" : "3", // secondes
+      "pourcentage" : "0.1%"
+    },
+    "candidat" : {
+      "temps" : "0h 00min 03s", // Affichable
+      "secondes" : "3", // secondes
+      "pourcentage" : "0.1%"
+    },
+    "total_temps_de_parole": { // soutiens + candidat
+      "temps" : "0h 00min 03s", // Affichable
+      "secondes" : "3", // secondes
+      "pourcentage" : "0.1%"
+    },
+    "antenne" : {
+      "temps" : "0h 00min 03s", // Affichable
+      "secondes" : "3", // secondes
+      "pourcentage" : "0.1%"
+    },
+    "total_temps_antenne": { // antenne + temps de paroles
+      "temps" : "0h 00min 03s", // Affichable
+      "secondes" : "3", // secondes
+      "pourcentage" : "0.1%"
+    },
+  }
+}
