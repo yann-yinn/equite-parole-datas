@@ -61,7 +61,7 @@ class Generator:
 		self.output[candidat][section]["secondes"] = secondes
 		m, s = divmod(secondes, 60)
 		h, m = divmod(m, 60)
-		self.output[candidat][section]["temps"] = "%d:%02d:%02d" % (h, m, s)
+		self.output[candidat][section]["temps"] = "%dh %02dmin %02ds" % (h, m, s)
 		return True
 
 
