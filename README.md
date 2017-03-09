@@ -10,12 +10,11 @@ Les données générées dans le répertoire "dist" sont ensuite mises à dispos
 ## Requis :
 
 - Python3.4
-- OpenPyXL
 
 ## Build :
 Dans un terminal :
 ```shell
-/usr/bin/python3.4 Main.py
+/usr/bin/python3.4 buiders/python_builder/Main.py
 ```
 
 # ORGANISATIONS DES DOSSIERS

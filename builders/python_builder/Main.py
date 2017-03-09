@@ -3,13 +3,15 @@
 import os
 from os import listdir
 from os.path import isdir, isfile, join
-from python_builder.Config import Config
-from python_builder.Generator import Generator
+
+from builders.python_builder.Config import Config
+from builders.python_builder.Generator import Generator
+
 
 class Main:
 
 	def __init__(self):
-		Config.root(os.path.realpath(__file__))
+		Config.root(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../../'))
 
 		src = Config.ROOT+Config.SOURCES
 		intervals = [f for f in listdir(src) if isdir(join(src, f))]
