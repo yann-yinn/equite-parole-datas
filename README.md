@@ -16,3 +16,10 @@ Dans un terminal :
 ```shell
 /usr/bin/python3.4 Main.py
 ```
+
+# ORGANISATIONS DES DOSSIERS
+
+- src : contient les données téléchargés depuis le site du CSA
+- dist : contient les données JSON qu'on peut mettre à disposition de tous
+- processors : contient les scripts traitant les données du site du CSA pour en faire des données exploitables
+
