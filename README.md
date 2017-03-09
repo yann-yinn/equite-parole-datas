@@ -18,8 +18,14 @@ Dans un terminal :
 ./build.sh
 ```
 
-# ORGANISATIONS DES DOSSIERS
+#CONTRIBUER
 
+Fork, créer une branche depuis notre branche "dev" puis pull request
+
+# ORGANISATIONS DES DOSSIERS ET FICHIERS
+
+- crawler.sh : télécharge depuis le site du CSA les relevés par chaines et période 
+- build.sh : traite les données téléchargés depuis le site du csa pour en faire des JSON
 - src : contient les données téléchargés depuis le site du CSA
 - dist : contient les données JSON qu'on peut mettre à disposition de tous. C'est ce répertoire qui est mis à disposition dans le répertoire "api" de http://equite-parole.github.io
 - processors : contient les scripts traitant les données du site du CSA pour en faire des données exploitables
