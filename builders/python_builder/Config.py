@@ -3,7 +3,7 @@
 class Config:
 
 	ROOT = ""
-	SOURCES = "src/"
+	SOURCES = "src/rapports/"
 	PARSED = "csv/"
 	ORIGIN = "originaux/"
 	DIST = "dist/"

@@ -9,14 +9,13 @@ from builders.python_builder.Generator import Generator
 
 
 class Main:
-
 	def __init__(self):
 		Config.root(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../../'))
 
-		src = Config.ROOT+Config.SOURCES
+		src = Config.ROOT + Config.SOURCES
 		intervals = [f for f in listdir(src) if isdir(join(src, f))]
 
-		for interval in intervals [:-1]:
+		for interval in intervals:
 			path_categories = src + interval + "/" + Config.PARSED
 			categories = [f for f in listdir(path_categories) if isdir(join(path_categories, f))]
 			for categorie in categories:
@@ -29,5 +28,6 @@ class Main:
 				for source in sources:
 					generator.addFile(sources_path + source)
 				generator.writeFile()
+
 
 Main()
