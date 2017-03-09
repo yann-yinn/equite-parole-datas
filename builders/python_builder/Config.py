@@ -3,7 +3,9 @@
 class Config:
 
 	ROOT = ""
-	SOURCES = "src/rapports/"
+	SOURCES = "src/"
+	RELEVE = "releves/"
+	RAPPORTS = "rapports/"
 	PARSED = "csv/"
 	ORIGIN = "originaux/"
 	DIST = "dist/"

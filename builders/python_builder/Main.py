@@ -10,9 +10,13 @@ from builders.python_builder.Generator import Generator
 
 class Main:
 	def __init__(self):
+		"""Initialise les configuration et lance le process "rapports"."""
 		Config.root(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../../'))
+		self.processRapports()
 
-		src = Config.ROOT + Config.SOURCES
+	def processRapports(self):
+		"""Exploite le dossier src/rapports pour produire des données par groupe de chaines"""
+		src = Config.ROOT + Config.SOURCES + Config.RAPPORTS
 		intervals = [f for f in listdir(src) if isdir(join(src, f))]
 
 		for interval in intervals:
@@ -20,7 +24,7 @@ class Main:
 			categories = [f for f in listdir(path_categories) if isdir(join(path_categories, f))]
 			for categorie in categories:
 				sources_path = path_categories + categorie + "/"
-				output_dir = Config.ROOT + Config.DIST + interval + "/"
+				output_dir = Config.ROOT + Config.DIST + Config.RAPPORTS + interval + "/"
 				if not os.path.exists(output_dir):
 					os.mkdir(output_dir)
 				generator = Generator(output_dir + categorie + ".json")
