@@ -1,7 +1,7 @@
 #CSA - Données au format JSON et CSV des temps de parole et d'antenne des candidats à la présidentielle 2017
 
 Récupére et parse automatiquement en fichiers csv et JSON les données des temps d'antenne des candidats depuis le site http://csa.fr
-Les données générées dans le répertoire "dist" sont ensuite mises à disposition sur https://c43-drupal.service.dev.local.niji.delivery/
+Les données générées dans le répertoire "dist" sont ensuite mises à disposition sur http://equite-parole.github.io
 
 #INSTALLATION
 
