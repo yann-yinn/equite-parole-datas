@@ -13,6 +13,7 @@ class Main:
 		"""Initialise les configuration et lance le process "rapports"."""
 		Config.root(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../../'))
 		self.processRapports()
+		self.processReleves()
 
 	def processRapports(self):
 		"""Exploite le dossier src/rapports pour produire des données par groupe de chaines"""
@@ -33,5 +34,7 @@ class Main:
 					generator.addFile(sources_path + source)
 				generator.writeFile()
 
+	def processReleves(self):
+		"""Exploite le dossier src/releves pour produire des données par chaines et par semaine"""
 
 Main()

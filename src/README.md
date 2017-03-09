@@ -11,6 +11,6 @@ Contiens les fichiers extraits du CSA et éventuellement des version complilé p
 
 Contiens les relevé hebdomadaire du CSA, le premier niveaux de dossier représente la chaine, et le deuxième niveau la période.
 
-- Le fichier `src/releves/config.json`  : 
+- Le fichier `src/releves/settings.json`  :
 
 Associe les nombre à leurs chaine (`media`) et période (`dates`)
