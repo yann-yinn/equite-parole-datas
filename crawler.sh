@@ -18,10 +18,15 @@ do
   for VARIABLE in 1 2 3 4
   do
     FILE="http://www.csa.fr/csaelections/consultereleve/$CHAINE/$VARIABLE/1?csv=1"
-    echo "téléchargement du fichier $FILE"
-    DESTINATION="src/releves/$CHAINE/$VARIABLE/releve-$VARIABLE.csv";
-    curl $FILE --create-dirs --progress-bar -o $DESTINATION;
-    sleep .$[ ( $RANDOM % 4 ) + 3 ]s
+    # on vérifie que le content type soit bien notre csv téléchargeable et pas une page html 
+    # ce qui peut arriver si le fichier est manquant
+    ContentType=`curl $FILE -s -I | grep "Content-Type"`
+    if [[ $ContentType =~ "application/force-download" ]]; then
+      echo "téléchargement du fichier $FILE"
+      DESTINATION="src/releves/$CHAINE/$VARIABLE/releve-$VARIABLE.csv";
+      curl $FILE --create-dirs --progress-bar --fail -o $DESTINATION;
+      sleep .$[ ( $RANDOM % 4 ) + 3 ]s
+    fi
   done
 done
 
