@@ -1,0 +1,22 @@
+{
+  "name": "equite-parole-datas",
+  "version": "1.0.0",
+  "description": "Récupére et parse automatiquement en fichiers csv et JSON les données des temps d'antenne des candidats depuis le site http://csa.fr Les données générées dans le répertoire \"dist\" sont ensuite mises à disposition sur http://equite-parole.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyl-auster/csa-temps-de-paroles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyl-auster/csa-temps-de-paroles/issues"
+  },
+  "homepage": "https://github.com/nyl-auster/csa-temps-de-paroles#readme",
+  "dependencies": {
+    "csa-xlsx-converter": "^1.0.0"
+  }
+}
