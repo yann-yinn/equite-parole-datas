@@ -4,8 +4,8 @@ import os
 from os import listdir
 from os.path import isdir, isfile, join
 
-from builders.python_builder.Config import Config
-from builders.python_builder.Generator import Generator
+from processors.python_builder.Config import Config
+from processors.python_builder.Generator import Generator
 
 
 class Main:
