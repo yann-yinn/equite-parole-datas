@@ -14,7 +14,7 @@ class Main:
 		src = Config.ROOT+Config.SOURCES
 		intervals = [f for f in listdir(src) if isdir(join(src, f))]
 
-		for interval in intervals:
+		for interval in intervals [:-1]:
 			path_categories = src + interval + "/" + Config.PARSED
 			categories = [f for f in listdir(path_categories) if isdir(join(path_categories, f))]
 			for categorie in categories:
