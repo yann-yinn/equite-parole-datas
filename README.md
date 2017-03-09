@@ -5,11 +5,9 @@ Les données générées dans le répertoire "dist" sont ensuite mises à dispos
 
 #INSTALLATION
 
-# Python
-
-## Requis :
-
-- Python3.4
+# Requis :
+- Python3.4 ou >
+- Node 7
 
 ## Build :
 Dans un terminal :
