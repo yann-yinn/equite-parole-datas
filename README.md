@@ -14,7 +14,10 @@ Les données générées dans le répertoire "dist" sont ensuite mises à dispos
 ## Build :
 Dans un terminal :
 ```shell
-/usr/bin/python3.4 buiders/python_builder/Main.py
+# seulement si vous voulez re-télécharger tous les relevés csv par chaîne  (src/releves)
+./crawlers.sh
+# relancher le traitement des données du CSA et la génération des JSON et CSV
+./build.sh
 ```
 
 # ORGANISATIONS DES DOSSIERS
