@@ -4,15 +4,15 @@ import os
 from os import listdir
 from os.path import isdir, isfile, join
 
-from processors.python_builder.Config import Config
-from processors.python_builder.Generator import Generator
+from Config import Config
+from Generator import Generator
 
 
 class Main:
 	def __init__(self):
 		"""Initialise les configuration et lance le process "rapports"."""
 		Config.root(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../../'))
-		self.processRapports()
+		# self.processRapports()
 		self.processReleves()
 
 	def processRapports(self):
