@@ -1,0 +1,848 @@
+{
+  "ARTHAUD NATHALIE": {
+    "TF1": {
+      "Candidat": "00:00:31",
+      "Soutiens": "00:00:19",
+      "Total Temps de parole": "00:00:50",
+      "Antenne": "00:01:14",
+      "Total Temps d'antenne": "00:02:04"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:02",
+      "Total Temps d'antenne": "00:00:02"
+    },
+    "C+": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:02",
+      "Total Temps d'antenne": "00:00:02"
+    },
+    "C8": {
+      "Candidat": "00:02:12",
+      "Soutiens": "00:00:21",
+      "Total Temps de parole": "00:02:33",
+      "Antenne": "00:02:43",
+      "Total Temps d'antenne": "00:05:16"
+    }
+  },
+  "BAYROU FRANCOIS": {
+    "TF1": {
+      "Candidat": "00:00:06",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:06",
+      "Antenne": "00:00:26",
+      "Total Temps d'antenne": "00:00:32"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:59:44",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:59:44",
+      "Antenne": "00:09:27",
+      "Total Temps d'antenne": "01:09:11"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:24:48",
+      "Soutiens": "00:00:31",
+      "Total Temps de parole": "00:25:19",
+      "Antenne": "00:03:22",
+      "Total Temps d'antenne": "00:28:41"
+    },
+    "C+": {
+      "Candidat": "00:00:06",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:06",
+      "Antenne": "00:00:22",
+      "Total Temps d'antenne": "00:00:28"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:03:16",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:03:16",
+      "Antenne": "00:09:25",
+      "Total Temps d'antenne": "00:12:41"
+    },
+    "M6": {
+      "Candidat": "00:00:13",
+      "Soutiens": "00:00:40",
+      "Total Temps de parole": "00:00:53",
+      "Antenne": "00:01:20",
+      "Total Temps d'antenne": "00:02:13"
+    },
+    "C8": {
+      "Candidat": "00:00:31",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:31",
+      "Antenne": "00:03:37",
+      "Total Temps d'antenne": "00:04:08"
+    },
+    "TMC": {
+      "Candidat": "00:02:12",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:02:12",
+      "Antenne": "00:02:49",
+      "Total Temps d'antenne": "00:05:01"
+    },
+    "NT1": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:06",
+      "Total Temps d'antenne": "00:00:06"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:01:13",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:01:13",
+      "Antenne": "00:10:09",
+      "Total Temps d'antenne": "00:11:22"
+    }
+  },
+  "DUPONT AIGNAN NICOLAS": {
+    "TF1": {
+      "Candidat": "00:05:36",
+      "Soutiens": "00:00:09",
+      "Total Temps de parole": "00:05:45",
+      "Antenne": "00:01:59",
+      "Total Temps d'antenne": "00:07:44"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:42:17",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:42:17",
+      "Antenne": "00:00:52",
+      "Total Temps d'antenne": "00:43:09"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:03",
+      "Total Temps d'antenne": "00:00:03"
+    },
+    "C+": {
+      "Candidat": "00:01:41",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:01:41",
+      "Antenne": "00:00:02",
+      "Total Temps d'antenne": "00:01:43"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:00:30",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:30",
+      "Antenne": "00:00:45",
+      "Total Temps d'antenne": "00:01:15"
+    },
+    "M6": {
+      "Candidat": "00:00:25",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:25",
+      "Antenne": "00:00:47",
+      "Total Temps d'antenne": "00:01:12"
+    },
+    "C8": {
+      "Candidat": "00:00:30",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:30",
+      "Antenne": "00:02:43",
+      "Total Temps d'antenne": "00:03:13"
+    },
+    "TMC": {
+      "Candidat": "00:05:27",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:05:27",
+      "Antenne": "00:02:51",
+      "Total Temps d'antenne": "00:08:18"
+    },
+    "FRANCEO": {
+      "Candidat": "00:00:23",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:23",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:23"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:07:41",
+      "Soutiens": "00:00:15",
+      "Total Temps de parole": "00:07:56",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:07:56"
+    }
+  },
+  "FILLON FRANCOIS": {
+    "TF1": {
+      "Candidat": "00:07:32",
+      "Soutiens": "00:09:27",
+      "Total Temps de parole": "00:16:59",
+      "Antenne": "00:51:40",
+      "Total Temps d'antenne": "01:08:39"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:39:45",
+      "Soutiens": "02:04:10",
+      "Total Temps de parole": "02:43:55",
+      "Antenne": "01:46:11",
+      "Total Temps d'antenne": "04:30:06"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:14:11",
+      "Soutiens": "00:44:59",
+      "Total Temps de parole": "00:59:10",
+      "Antenne": "00:52:32",
+      "Total Temps d'antenne": "01:51:42"
+    },
+    "C+": {
+      "Candidat": "00:03:00",
+      "Soutiens": "00:21:48",
+      "Total Temps de parole": "00:24:48",
+      "Antenne": "00:21:42",
+      "Total Temps d'antenne": "00:46:30"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:44:11",
+      "Soutiens": "01:45:24",
+      "Total Temps de parole": "02:29:35",
+      "Antenne": "17:42:41",
+      "Total Temps d'antenne": "20:12:16"
+    },
+    "M6": {
+      "Candidat": "00:09:21",
+      "Soutiens": "00:07:16",
+      "Total Temps de parole": "00:16:37",
+      "Antenne": "00:57:12",
+      "Total Temps d'antenne": "01:13:49"
+    },
+    "C8": {
+      "Candidat": "00:08:08",
+      "Soutiens": "00:59:42",
+      "Total Temps de parole": "01:07:50",
+      "Antenne": "02:12:32",
+      "Total Temps d'antenne": "03:20:22"
+    },
+    "TMC": {
+      "Candidat": "00:10:15",
+      "Soutiens": "00:32:47",
+      "Total Temps de parole": "00:43:02",
+      "Antenne": "01:28:24",
+      "Total Temps d'antenne": "02:11:26"
+    },
+    "NT1": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:01:56",
+      "Total Temps d'antenne": "00:01:56"
+    },
+    "FRANCEO": {
+      "Candidat": "00:03:06",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:03:06",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:03:06"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:08:12",
+      "Soutiens": "00:40:25",
+      "Total Temps de parole": "00:48:37",
+      "Antenne": "00:20:55",
+      "Total Temps d'antenne": "01:09:32"
+    }
+  },
+  "HAMON BENOIT": {
+    "TF1": {
+      "Candidat": "00:12:25",
+      "Soutiens": "00:01:20",
+      "Total Temps de parole": "00:13:45",
+      "Antenne": "00:10:46",
+      "Total Temps d'antenne": "00:24:31"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:24:06",
+      "Soutiens": "00:48:41",
+      "Total Temps de parole": "01:12:47",
+      "Antenne": "00:24:58",
+      "Total Temps d'antenne": "01:37:45"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:09:12",
+      "Soutiens": "00:38:47",
+      "Total Temps de parole": "00:47:59",
+      "Antenne": "00:15:38",
+      "Total Temps d'antenne": "01:03:37"
+    },
+    "C+": {
+      "Candidat": "00:04:07",
+      "Soutiens": "00:11:54",
+      "Total Temps de parole": "00:16:01",
+      "Antenne": "00:11:38",
+      "Total Temps d'antenne": "00:27:39"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:41:12",
+      "Soutiens": "00:27:24",
+      "Total Temps de parole": "01:08:36",
+      "Antenne": "01:19:52",
+      "Total Temps d'antenne": "02:28:28"
+    },
+    "M6": {
+      "Candidat": "00:02:59",
+      "Soutiens": "00:01:34",
+      "Total Temps de parole": "00:04:33",
+      "Antenne": "00:09:16",
+      "Total Temps d'antenne": "00:13:49"
+    },
+    "C8": {
+      "Candidat": "00:01:04",
+      "Soutiens": "00:02:02",
+      "Total Temps de parole": "00:03:06",
+      "Antenne": "00:06:36",
+      "Total Temps d'antenne": "00:09:42"
+    },
+    "TMC": {
+      "Candidat": "00:01:45",
+      "Soutiens": "00:13:37",
+      "Total Temps de parole": "00:15:22",
+      "Antenne": "00:09:23",
+      "Total Temps d'antenne": "00:24:45"
+    },
+    "NT1": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:06",
+      "Total Temps d'antenne": "00:00:06"
+    },
+    "FRANCEO": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:04:26",
+      "Total Temps de parole": "00:04:26",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:04:26"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:03:28",
+      "Soutiens": "00:50:54",
+      "Total Temps de parole": "00:54:22",
+      "Antenne": "00:03:40",
+      "Total Temps d'antenne": "00:58:02"
+    }
+  },
+  "JADOT YANNICK": {
+    "TF1": {
+      "Candidat": "00:00:55",
+      "Soutiens": "00:00:15",
+      "Total Temps de parole": "00:01:10",
+      "Antenne": "00:02:22",
+      "Total Temps d'antenne": "00:03:32"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:10:32",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:10:32",
+      "Antenne": "00:00:41",
+      "Total Temps d'antenne": "00:11:13"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:00:24",
+      "Soutiens": "00:05:04",
+      "Total Temps de parole": "00:05:28",
+      "Antenne": "00:03:28",
+      "Total Temps d'antenne": "00:08:56"
+    },
+    "C+": {
+      "Candidat": "00:13:51",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:13:51",
+      "Antenne": "00:03:38",
+      "Total Temps d'antenne": "00:17:29"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:24:09",
+      "Soutiens": "00:03:18",
+      "Total Temps de parole": "00:27:27",
+      "Antenne": "00:08:14",
+      "Total Temps d'antenne": "00:35:41"
+    },
+    "M6": {
+      "Candidat": "00:01:04",
+      "Soutiens": "00:00:20",
+      "Total Temps de parole": "00:01:24",
+      "Antenne": "00:01:48",
+      "Total Temps d'antenne": "00:03:12"
+    },
+    "C8": {
+      "Candidat": "00:00:40",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:40",
+      "Antenne": "00:00:02",
+      "Total Temps d'antenne": "00:00:42"
+    },
+    "TMC": {
+      "Candidat": "00:00:09",
+      "Soutiens": "00:00:16",
+      "Total Temps de parole": "00:00:25",
+      "Antenne": "00:00:46",
+      "Total Temps d'antenne": "00:01:11"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:00:18",
+      "Soutiens": "00:07:29",
+      "Total Temps de parole": "00:07:47",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:07:47"
+    }
+  },
+  "JARDIN ALEXANDRE": {
+    "TF1": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:04",
+      "Total Temps d'antenne": "00:00:04"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:10",
+      "Total Temps d'antenne": "00:00:10"
+    },
+    "C+": {
+      "Candidat": "00:03:06",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:03:06",
+      "Antenne": "00:05:34",
+      "Total Temps d'antenne": "00:08:40"
+    },
+    "M6": {
+      "Candidat": "00:00:16",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:16",
+      "Antenne": "00:00:18",
+      "Total Temps d'antenne": "00:00:34"
+    },
+    "TMC": {
+      "Candidat": "00:00:04",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:04",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:04"
+    }
+  },
+  "LARROUTUROU PIERRE": {
+    "TF1": {
+      "Candidat": "00:00:18",
+      "Soutiens": "00:00:07",
+      "Total Temps de parole": "00:00:25",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:25"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:00:06",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:06",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:06"
+    }
+  },
+  "LE PEN MARINE": {
+    "TF1": {
+      "Candidat": "00:14:34",
+      "Soutiens": "00:03:35",
+      "Total Temps de parole": "00:18:09",
+      "Antenne": "00:16:44",
+      "Total Temps d'antenne": "00:34:53"
+    },
+    "FRANCE 2": {
+      "Candidat": "01:35:05",
+      "Soutiens": "00:32:17",
+      "Total Temps de parole": "02:07:22",
+      "Antenne": "00:22:00",
+      "Total Temps d'antenne": "02:29:22"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:09:20",
+      "Soutiens": "00:18:42",
+      "Total Temps de parole": "00:28:02",
+      "Antenne": "00:22:18",
+      "Total Temps d'antenne": "00:50:20"
+    },
+    "C+": {
+      "Candidat": "00:00:42",
+      "Soutiens": "00:06:50",
+      "Total Temps de parole": "00:07:32",
+      "Antenne": "00:06:47",
+      "Total Temps d'antenne": "00:14:19"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:30:35",
+      "Soutiens": "00:34:06",
+      "Total Temps de parole": "01:04:41",
+      "Antenne": "06:21:57",
+      "Total Temps d'antenne": "07:26:38"
+    },
+    "M6": {
+      "Candidat": "00:04:43",
+      "Soutiens": "00:01:04",
+      "Total Temps de parole": "00:05:47",
+      "Antenne": "00:19:07",
+      "Total Temps d'antenne": "00:24:54"
+    },
+    "C8": {
+      "Candidat": "00:03:08",
+      "Soutiens": "00:06:19",
+      "Total Temps de parole": "00:09:27",
+      "Antenne": "00:41:29",
+      "Total Temps d'antenne": "00:50:56"
+    },
+    "TMC": {
+      "Candidat": "00:05:39",
+      "Soutiens": "00:02:14",
+      "Total Temps de parole": "00:07:53",
+      "Antenne": "00:31:22",
+      "Total Temps d'antenne": "00:39:15"
+    },
+    "NT1": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:05",
+      "Total Temps d'antenne": "00:00:05"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:03:22",
+      "Soutiens": "00:18:00",
+      "Total Temps de parole": "00:21:22",
+      "Antenne": "00:06:55",
+      "Total Temps d'antenne": "00:28:17"
+    }
+  },
+  "MACRON EMMANUEL": {
+    "TF1": {
+      "Candidat": "00:14:14",
+      "Soutiens": "00:03:17",
+      "Total Temps de parole": "00:17:31",
+      "Antenne": "00:36:41",
+      "Total Temps d'antenne": "00:54:12"
+    },
+    "FRANCE 2": {
+      "Candidat": "00:16:46",
+      "Soutiens": "00:27:02",
+      "Total Temps de parole": "00:43:48",
+      "Antenne": "00:54:22",
+      "Total Temps d'antenne": "01:38:10"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:12:50",
+      "Soutiens": "00:13:36",
+      "Total Temps de parole": "00:26:26",
+      "Antenne": "00:32:48",
+      "Total Temps d'antenne": "00:59:14"
+    },
+    "C+": {
+      "Candidat": "00:09:41",
+      "Soutiens": "00:02:21",
+      "Total Temps de parole": "00:12:02",
+      "Antenne": "00:16:45",
+      "Total Temps d'antenne": "00:28:47"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:22:49",
+      "Soutiens": "00:39:14",
+      "Total Temps de parole": "01:02:03",
+      "Antenne": "07:08:41",
+      "Total Temps d'antenne": "08:10:44"
+    },
+    "M6": {
+      "Candidat": "00:03:17",
+      "Soutiens": "00:02:30",
+      "Total Temps de parole": "00:05:47",
+      "Antenne": "00:16:47",
+      "Total Temps d'antenne": "00:22:34"
+    },
+    "C8": {
+      "Candidat": "00:08:07",
+      "Soutiens": "00:02:30",
+      "Total Temps de parole": "00:10:37",
+      "Antenne": "00:53:30",
+      "Total Temps d'antenne": "01:04:07"
+    },
+    "TMC": {
+      "Candidat": "00:09:21",
+      "Soutiens": "00:02:08",
+      "Total Temps de parole": "00:11:29",
+      "Antenne": "00:33:11",
+      "Total Temps d'antenne": "00:44:40"
+    },
+    "NT1": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:29",
+      "Total Temps d'antenne": "00:00:29"
+    },
+    "FRANCEO": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:20",
+      "Total Temps de parole": "00:00:20",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:20"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:04:50",
+      "Soutiens": "00:15:40",
+      "Total Temps de parole": "00:20:30",
+      "Antenne": "00:42:39",
+      "Total Temps d'antenne": "01:03:09"
+    }
+  },
+  "MELENCHON JEAN LUC": {
+    "TF1": {
+      "Candidat": "00:09:39",
+      "Soutiens": "00:02:22",
+      "Total Temps de parole": "00:12:01",
+      "Antenne": "00:06:59",
+      "Total Temps d'antenne": "00:19:00"
+    },
+    "FRANCE 2": {
+      "Candidat": "01:38:38",
+      "Soutiens": "00:03:36",
+      "Total Temps de parole": "01:42:14",
+      "Antenne": "00:14:32",
+      "Total Temps d'antenne": "01:56:46"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:07:16",
+      "Soutiens": "00:01:35",
+      "Total Temps de parole": "00:08:51",
+      "Antenne": "00:08:50",
+      "Total Temps d'antenne": "00:17:41"
+    },
+    "C+": {
+      "Candidat": "00:08:33",
+      "Soutiens": "00:01:32",
+      "Total Temps de parole": "00:10:05",
+      "Antenne": "00:06:38",
+      "Total Temps d'antenne": "00:16:43"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:10:18",
+      "Soutiens": "00:01:50",
+      "Total Temps de parole": "00:12:08",
+      "Antenne": "00:51:17",
+      "Total Temps d'antenne": "01:03:25"
+    },
+    "M6": {
+      "Candidat": "00:01:28",
+      "Soutiens": "00:00:39",
+      "Total Temps de parole": "00:02:07",
+      "Antenne": "00:06:21",
+      "Total Temps d'antenne": "00:08:28"
+    },
+    "C8": {
+      "Candidat": "00:04:48",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:04:48",
+      "Antenne": "00:08:34",
+      "Total Temps d'antenne": "00:13:22"
+    },
+    "TMC": {
+      "Candidat": "00:05:23",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:05:23",
+      "Antenne": "00:11:01",
+      "Total Temps d'antenne": "00:16:24"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:03:37",
+      "Soutiens": "00:21:03",
+      "Total Temps de parole": "00:24:40",
+      "Antenne": "00:01:41",
+      "Total Temps d'antenne": "00:26:21"
+    }
+  },
+  "POUTOU PHILIPPE": {
+    "TF1": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:04",
+      "Total Temps d'antenne": "00:00:04"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:00:11",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:11",
+      "Antenne": "00:00:18",
+      "Total Temps d'antenne": "00:00:29"
+    },
+    "C+": {
+      "Candidat": "00:00:35",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:35",
+      "Antenne": "00:01:16",
+      "Total Temps d'antenne": "00:01:51"
+    },
+    "C8": {
+      "Candidat": "00:00:51",
+      "Soutiens": "00:00:16",
+      "Total Temps de parole": "00:01:07",
+      "Antenne": "00:01:46",
+      "Total Temps d'antenne": "00:02:53"
+    },
+    "TMC": {
+      "Candidat": "00:00:59",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:59",
+      "Antenne": "00:01:52",
+      "Total Temps d'antenne": "00:02:51"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:00:13",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:13",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:13"
+    }
+  },
+  "ALLIOT MARIE MICHELE": {
+    "FRANCE 2": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:06",
+      "Total Temps d'antenne": "00:00:06"
+    },
+    "C+": {
+      "Candidat": "00:00:56",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:56",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:56"
+    },
+    "TMC": {
+      "Candidat": "00:01:12",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:01:12",
+      "Antenne": "00:04:46",
+      "Total Temps d'antenne": "00:05:58"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:00:23",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:23",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:23"
+    }
+  },
+  "CHEMINADE JACQUES": {
+    "FRANCE 2": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:44",
+      "Total Temps d'antenne": "00:00:44"
+    },
+    "C+": {
+      "Candidat": "00:00:15",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:15",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:15"
+    },
+    "C8": {
+      "Candidat": "00:00:45",
+      "Soutiens": "00:00:21",
+      "Total Temps de parole": "00:01:06",
+      "Antenne": "00:02:43",
+      "Total Temps d'antenne": "00:03:49"
+    }
+  },
+  "GUAINO HENRI": {
+    "FRANCE 2": {
+      "Candidat": "00:10:09",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:10:09",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:10:09"
+    },
+    "C+": {
+      "Candidat": "00:00:17",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:17",
+      "Antenne": "00:00:02",
+      "Total Temps d'antenne": "00:00:19"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:15:17",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:15:17",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:15:17"
+    },
+    "M6": {
+      "Candidat": "00:00:10",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:10",
+      "Antenne": "00:00:03",
+      "Total Temps d'antenne": "00:00:13"
+    },
+    "TMC": {
+      "Candidat": "00:00:14",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:14",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:14"
+    }
+  },
+  "LASSALLE JEAN": {
+    "FRANCE 2": {
+      "Candidat": "00:00:13",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:13",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:13"
+    },
+    "FRANCE 3": {
+      "Candidat": "00:00:55",
+      "Soutiens": "00:00:08",
+      "Total Temps de parole": "00:01:03",
+      "Antenne": "00:02:28",
+      "Total Temps d'antenne": "00:03:31"
+    },
+    "C+": {
+      "Candidat": "00:02:09",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:02:09",
+      "Antenne": "00:00:24",
+      "Total Temps d'antenne": "00:02:33"
+    },
+    "FRANCE 5": {
+      "Candidat": "00:00:33",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:33",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:33"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "00:08:31",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:08:31",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:08:31"
+    }
+  },
+  "MORANDAIS JEAN": {
+    "FRANCEO": {
+      "Candidat": "00:01:38",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:01:38",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:01:38"
+    }
+  }
+}
