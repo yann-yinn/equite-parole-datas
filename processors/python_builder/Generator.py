@@ -31,6 +31,7 @@ class Generator:
 					candidat = arr[0]
 					if not arr[0] in self.output:
 						self.output[candidat] = {
+							"nom" : candidat,
 							"soutiens" : Generator.createTimeSection(),
 							"candidat" : Generator.createTimeSection(),
 							"total_temps_de_parole": Generator.createTimeSection(),
