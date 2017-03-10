@@ -8,7 +8,7 @@ class Config:
 	RAPPORTS = "releves-par-groupe-de-chaines/"
 	PARSED = "csv/"
 	ORIGIN = "originaux/"
-	DIST = "dist/api"
+	DIST = "dist/api/v1"
 
 	@staticmethod
 	def root(d):
