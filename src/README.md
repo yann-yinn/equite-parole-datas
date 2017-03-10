@@ -15,6 +15,6 @@ Contient les relevés plus ou moins hebdomadaires du CSA, le premier niveaux de 
 
 Contient les relevés regroupés par groupe de chaines ou radios (chaînes généralistes, chaînes d'informations, radios)
 
-- Le fichier `src/releves-par-chaine/settings.json`  :
+- Le fichier `metadatas.json`  :
 
 Associe les nombre à leurs chaine (`chaine`) et période (`dates`)
