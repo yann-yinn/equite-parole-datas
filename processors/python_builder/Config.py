@@ -8,11 +8,10 @@ class Config:
 	RAPPORTS = "releves-par-groupe-de-chaines/"
 	PARSED = "csv/"
 	ORIGIN = "originaux/"
-	DIST = "dist/api/v1"
+	DIST = "dist/api/v1/"
 
 	@staticmethod
 	def root(d):
 		d = d.replace("\\", "/")
-		part = d.rpartition("/")
-		Config.ROOT = part[0] + "/"
+		Config.ROOT = d + "/"
 		return True
