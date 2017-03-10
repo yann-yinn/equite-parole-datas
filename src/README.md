@@ -1,7 +1,7 @@
 
 # Sources
 
-- Dossier `src/` : 
+- Dossier `src/` :
 
 Contient les fichiers extraits du CSA et éventuellement des version compilés plus exploitables pour les scripts.
 
@@ -17,4 +17,4 @@ Contient les relevés regroupés par groupe de chaines ou radios (chaînes gén�
 
 - Le fichier `src/releves-par-chaine/settings.json`  :
 
-Associe les nombre à leurs chaine (`media`) et période (`dates`)
+Associe les nombre à leurs chaine (`chaine`) et période (`dates`)
