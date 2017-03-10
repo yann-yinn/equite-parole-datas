@@ -16,8 +16,8 @@ class Main:
 		self.processRapports()
 
 	def processRapports(self):
-		"""Exploite le dossier src/rapports pour produire des données par groupe de chaines"""
-		src = Config.ROOT + Config.SOURCES + Config.RAPPORTS
+		"""Exploite le dossier src/RELEVES_PAR_GROUPE_DE_CHAINES pour produire des données par groupe de chaines"""
+		src = Config.ROOT + Config.SOURCES + Config.RELEVES_PAR_GROUPE_DE_CHAINES
 		intervals = [f for f in listdir(src) if isdir(join(src, f))]
 
 		for interval in intervals:
