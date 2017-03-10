@@ -3,10 +3,10 @@
 # récupérer les fichiers originaux depuis le site du csa
 # et les enregistre dans le dossier src
 
-echo "-----------------"
+echo "------------------------------------"
 echo "Suppression des relevés précédents"
-echo "-----------------"
-rm -rf "src/releves"
+echo "------------------------------------"
+rm -rf !(settings.json) "src/releves" 
 
 for CHAINE in 1 2 3 4 5 6 8 14 15 16 19 24 26 27 101 102 103 104 105 106 107 108 109 110
 do
