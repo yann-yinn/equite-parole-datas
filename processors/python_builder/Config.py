@@ -4,8 +4,8 @@ class Config:
 
 	ROOT = ""
 	SOURCES = "src/"
-	RELEVE = "releves-par-media/"
-	RAPPORTS = "releves-par-groupe-de-media"
+	RELEVE = "releves-par-chaine/"
+	RAPPORTS = "releves-par-groupe-de-chaines/"
 	PARSED = "csv/"
 	ORIGIN = "originaux/"
 	DIST = "dist/api"
