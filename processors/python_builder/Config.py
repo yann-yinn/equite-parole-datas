@@ -4,11 +4,11 @@ class Config:
 
 	ROOT = ""
 	SOURCES = "src/"
-	RELEVE = "releves/"
-	RAPPORTS = "rapports/"
+	RELEVE = "releves-par-media/"
+	RAPPORTS = "releves-par-groupe-de-media"
 	PARSED = "csv/"
 	ORIGIN = "originaux/"
-	DIST = "dist/"
+	DIST = "dist/api"
 
 	@staticmethod
 	def root(d):
