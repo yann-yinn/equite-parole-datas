@@ -6,7 +6,7 @@
 echo "------------------------------------"
 echo "Suppression des relevés précédents"
 echo "------------------------------------"
-rm -rf !(settings.json|README.md) "src/releves-par-media"
+rm -rf !(settings.json|README.md) "src/releves-par-chaine"
 
 for CHAINE in 1 2 3 4 5 6 8 14 15 16 19 24 26 27 101 102 103 104 105 106 107 108 109 110
 do

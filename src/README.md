@@ -3,14 +3,18 @@
 
 - Dossier `src/` : 
 
-Contiens les fichiers extraits du CSA et éventuellement des version complilé plus exploitable pour les scripts.
+Contient les fichiers extraits du CSA et éventuellement des version compilés plus exploitables pour les scripts.
 
 ## Relevés
 
-- Dossier `src/releves/` :
+- Dossier `src/releves-par-chaine/` :
 
-Contiens les relevé hebdomadaire du CSA, le premier niveaux de dossier représente la chaine, et le deuxième niveau la période.
+Contient les relevés plus ou moins hebdomadaires du CSA, le premier niveaux de dossier représente la chaine, et le deuxième niveau la période. C'est le reflet de l'organisation de ces fichiers sur le site du CSA.
 
-- Le fichier `src/releves/settings.json`  :
+- Dossier `src/releves-par-groupe-de-chaines"
+
+Contient les relevés regroupés par groupe de chaines ou radios (chaînes généralistes, chaînes d'informations, radios)
+
+- Le fichier `src/releves-par-chaine/settings.json`  :
 
 Associe les nombre à leurs chaine (`media`) et période (`dates`)
