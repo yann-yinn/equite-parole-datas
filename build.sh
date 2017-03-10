@@ -1,3 +1,5 @@
+#!/bin/bash
+
 npm install
 
 python3 processors/python_builder/Main.py

@@ -1,3 +1,4 @@
 .idea
 node_modules
 processors/python_builder/__pycache__
+.DS_Store
