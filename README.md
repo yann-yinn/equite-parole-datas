@@ -20,6 +20,7 @@ Dans un terminal :
 
 #CONTRIBUER
 
+Voir ici https://github.com/nyl-auster/equite-parole-datas/wiki/R%C3%A8gles-de-contributions-%C3%A0-%22%C3%89quit%C3%A9-de-parole%22
 Fork, créer une branche depuis notre branche "dev" puis pull request
 
 # ORGANISATIONS DES DOSSIERS ET FICHIERS
@@ -27,6 +28,6 @@ Fork, créer une branche depuis notre branche "dev" puis pull request
 - crawler.sh : télécharge depuis le site du CSA les relevés par chaines et période 
 - build.sh : traite les données téléchargés depuis le site du csa pour en faire des JSON
 - src : contient les données téléchargés depuis le site du CSA
-- dist : contient les données JSON qu'on peut mettre à disposition de tous. C'est ce répertoire qui est mis à disposition dans le répertoire "api" de http://equite-parole.github.io
+- dist : contient le répertoir csv et api directement servis ensuite par equite-parole.github.io
 - processors : contient les scripts traitant les données du site du CSA pour en faire des données exploitables
 
