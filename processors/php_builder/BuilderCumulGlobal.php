@@ -22,10 +22,13 @@ class BuilderCumulGlobal {
   function process($csv_as_array) {
     $array = [];
     foreach ($csv_as_array as $key => $datas) {
+      $seconds = csa_time_to_seconds($datas[3]);
+      $readable = secondes_to_readable_time($seconds);
       $array[$datas[1]][$this->mapping[$datas[2]]] = [
         'temps_brut' => $datas[3],
         'pourcentage' => $datas[4],
-        'secondes' => strtotime($datas[3]) - strtotime('TODAY')
+        'secondes' => $seconds,
+        'temps' => $readable
       ];
     }
     return $array;

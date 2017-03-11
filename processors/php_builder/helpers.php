@@ -22,41 +22,22 @@ function get_csv_file_and_parse_it_as_array($path) {
   return $csv;
 }
 
-function array_2_csv($array) {
-  $csv = array();
-  foreach ($array as $item) {
-    if (is_array($item)) {
-      $csv[] = array_2_csv($item);
-    } else {
-      $csv[] = $item;
-    }
-  }
-  return implode(',', $csv);
+/**
+ * De 00:12:02 à un nombre de secondes
+ * @param $time
+ * @return false|int
+ */
+function csa_time_to_seconds($time) {
+  return strtotime($time) - strtotime('TODAY');
 }
 
 /**
- * Formats a line (passed as a fields  array) as CSV and returns the CSV as a string.
- * Adapted from http://us3.php.net/manual/en/function.fputcsv.php#87120
+ * D'une nombre de secondes à 12h 23min 54s
+ * @param $seconds
+ * @return string
  */
-function arrayToCsv( array &$fields, $delimiter = ';', $enclosure = '"', $encloseAll = false, $nullToMysqlNull = false ) {
-  $delimiter_esc = preg_quote($delimiter, '/');
-  $enclosure_esc = preg_quote($enclosure, '/');
-
-  $output = array();
-  foreach ( $fields as $field ) {
-    if ($field === null && $nullToMysqlNull) {
-      $output[] = 'NULL';
-      continue;
-    }
-
-    // Enclose fields containing $delimiter, $enclosure or whitespace
-    if ( $encloseAll || preg_match( "/(?:${delimiter_esc}|${enclosure_esc}|\s)/", $field ) ) {
-      $output[] = $enclosure . str_replace($enclosure, $enclosure . $enclosure, $field) . $enclosure;
-    }
-    else {
-      $output[] = $field;
-    }
-  }
-
-  return implode( $delimiter, $output );
+function secondes_to_readable_time($seconds) {
+  $seconds = round($seconds);
+  return sprintf('%02dh %02dm %02ds', ($seconds/3600),($seconds/60%60), $seconds%60);
 }
+
