@@ -1,9 +1,8 @@
 <?php
 
-class Builder {
+class BuilderCumulGlobal {
 
   public $csv_as_array = [];
-  public $array = [];
   public $mapping = [
     "Candidat" => 'candidat',
     "Soutiens" => 'soutien',
@@ -13,13 +12,16 @@ class Builder {
   ];
 
   function __construct($filepath) {
-    $this->filepath =$filepath;
     $this->csv_as_array = get_csv_file_and_parse_it_as_array($filepath);
   }
 
-  function process() {
+  /**
+   * Transforme le tableau du csv original en un tableau exploitable
+   * @return array
+   */
+  function process($csv_as_array) {
     $array = [];
-    foreach ($this->csv_as_array as $key => $datas) {
+    foreach ($csv_as_array as $key => $datas) {
       $array[$datas[1]][$this->mapping[$datas[2]]] = [
         'temps_brut' => $datas[3],
         'pourcentage' => $datas[4],
@@ -29,13 +31,9 @@ class Builder {
     return $array;
   }
 
-  function writeJson($destination) {
-    $json = json_encode($this->process(), JSON_PRETTY_PRINT);
+  function writeAsJson($destination) {
+    $json = json_encode($this->process($this->csv_as_array), JSON_PRETTY_PRINT);
     file_put_contents($destination, $json);
-  }
-
-  function writeCsv($destination) {
-
   }
 
 }
