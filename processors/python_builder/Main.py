@@ -5,6 +5,7 @@ from os import listdir
 from os.path import isdir, isfile, join
 
 from Config import Config
+from RelevesProcessor import RelevesProcessor
 from Generator import Generator
 
 
@@ -13,7 +14,7 @@ class Main:
 		"""Initialise les configuration et lance le process "rapports"."""
 		Config.root(os.path.realpath(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))))
 		# self.processRapports()
-		self.processRapports()
+		self.processReleves()
 
 	def processRapports(self):
 		"""Exploite le dossier src/RELEVES_PAR_GROUPE_DE_CHAINES pour produire des données par groupe de chaines"""
@@ -36,5 +37,7 @@ class Main:
 
 	def processReleves(self):
 		"""Exploite le dossier src/releves pour produire des données par chaines et par semaine"""
+		relevesProcessor = RelevesProcessor()
+
 
 Main()
