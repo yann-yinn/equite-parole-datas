@@ -36,7 +36,14 @@ class BuilderCumulGlobal {
   }
 
   function writeAsJson($destination) {
-    $json = json_encode($this->process($this->csv_as_array), JSON_PRETTY_PRINT);
+    $jsonArray = [
+      'data' => $this->process($this->csv_as_array),
+      'metadata' => [
+        'title' => "Tous media confondus du 1er février au 5 mars",
+        "subtitle" => ""
+      ],
+    ];
+    $json = json_encode($jsonArray, JSON_PRETTY_PRINT);
     file_put_contents($destination, $json);
   }
 
