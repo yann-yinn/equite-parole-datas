@@ -447,38 +447,6 @@
             "temps": "00h 00m 40s"
         }
     },
-    "Total candidats": {
-        "candidat": {
-            "temps_brut": "02:09:14",
-            "pourcentage": "100",
-            "secondes": 7754,
-            "temps": "02h 09m 14s"
-        },
-        "soutien": {
-            "temps_brut": "18:19:41",
-            "pourcentage": "100",
-            "secondes": 65981,
-            "temps": "18h 19m 41s"
-        },
-        "total_temps_de_parole": {
-            "temps_brut": "20:28:55",
-            "pourcentage": "100",
-            "secondes": 73735,
-            "temps": "20h 28m 55s"
-        },
-        "antenne": {
-            "temps_brut": "00:27:55",
-            "pourcentage": "100",
-            "secondes": 1675,
-            "temps": "00h 27m 55s"
-        },
-        "total_temps_antenne": {
-            "temps_brut": "20:56:50",
-            "pourcentage": "100",
-            "secondes": 75410,
-            "temps": "20h 56m 50s"
-        }
-    },
     "ALLIOT MARIE MICHELE": {
         "candidat": {
             "temps_brut": "00:44:08",
