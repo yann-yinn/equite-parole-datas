@@ -20,7 +20,7 @@ class Builder {
   function process() {
     $array = [];
     foreach ($this->csv_as_array as $key => $datas) {
-      $this->array[$datas[1]][$this->mapping[$datas[2]]] = [
+      $array[$datas[1]][$this->mapping[$datas[2]]] = [
         'temps_brut' => $datas[3],
         'pourcentage' => $datas[4],
         'secondes' => strtotime($datas[3]) - strtotime('TODAY')
