@@ -13,7 +13,7 @@ class Main:
 	def __init__(self):
 		"""Initialise les configuration et lance le process "rapports"."""
 		Config.root(os.path.realpath(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))))
-		# self.processRapports()
+		self.processRapports()
 		self.processReleves()
 
 	def processRapports(self):
