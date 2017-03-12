@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/nyl-auster/csa-temps-de-paroles#readme",
   "dependencies": {
-    "csa-xlsx-converter": "^1.1.0"
+    "csa-xlsx-converter": "1.1.1"
   }
 }
