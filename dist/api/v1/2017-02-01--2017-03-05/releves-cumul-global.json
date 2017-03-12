@@ -1,0 +1,1186 @@
+{
+    "ARTHAUD NATHALIE": {
+        "candidat": {
+            "temps_brut": "00:05:48",
+            "pourcentage": "4.49",
+            "secondes": 348,
+            "temps": "00h 05m 48s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:05:48",
+            "pourcentage": "0.47",
+            "secondes": 348,
+            "temps": "00h 05m 48s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:05:48",
+            "pourcentage": "0.46",
+            "secondes": 348,
+            "temps": "00h 05m 48s"
+        }
+    },
+    "BAYROU FRANCOIS": {
+        "candidat": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:20",
+            "pourcentage": "1.19",
+            "secondes": 20,
+            "temps": "00h 00m 20s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:20",
+            "pourcentage": "0.03",
+            "secondes": 20,
+            "temps": "00h 00m 20s"
+        }
+    },
+    "DUPONT AIGNAN NICOLAS": {
+        "candidat": {
+            "temps_brut": "00:14:16",
+            "pourcentage": "11.04",
+            "secondes": 856,
+            "temps": "00h 14m 16s"
+        },
+        "soutien": {
+            "temps_brut": "00:49:30",
+            "pourcentage": "4.5",
+            "secondes": 2970,
+            "temps": "00h 49m 30s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "01:03:46",
+            "pourcentage": "5.19",
+            "secondes": 3826,
+            "temps": "01h 03m 46s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "01:03:46",
+            "pourcentage": "5.07",
+            "secondes": 3826,
+            "temps": "01h 03m 46s"
+        }
+    },
+    "FILLON FRANCOIS": {
+        "candidat": {
+            "temps_brut": "00:16:00",
+            "pourcentage": "12.38",
+            "secondes": 960,
+            "temps": "00h 16m 00s"
+        },
+        "soutien": {
+            "temps_brut": "05:13:55",
+            "pourcentage": "28.55",
+            "secondes": 18835,
+            "temps": "05h 13m 55s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "05:29:55",
+            "pourcentage": "26.85",
+            "secondes": 19795,
+            "temps": "05h 29m 55s"
+        },
+        "antenne": {
+            "temps_brut": "00:05:09",
+            "pourcentage": "18.45",
+            "secondes": 309,
+            "temps": "00h 05m 09s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "05:35:04",
+            "pourcentage": "26.66",
+            "secondes": 20104,
+            "temps": "05h 35m 04s"
+        }
+    },
+    "HAMON BENOIT": {
+        "candidat": {
+            "temps_brut": "00:02:11",
+            "pourcentage": "1.69",
+            "secondes": 131,
+            "temps": "00h 02m 11s"
+        },
+        "soutien": {
+            "temps_brut": "04:38:59",
+            "pourcentage": "25.37",
+            "secondes": 16739,
+            "temps": "04h 38m 59s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "04:41:10",
+            "pourcentage": "22.88",
+            "secondes": 16870,
+            "temps": "04h 41m 10s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:52",
+            "pourcentage": "3.1",
+            "secondes": 52,
+            "temps": "00h 00m 52s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "04:42:02",
+            "pourcentage": "22.44",
+            "secondes": 16922,
+            "temps": "04h 42m 02s"
+        }
+    },
+    "JADOT YANNICK": {
+        "candidat": {
+            "temps_brut": "00:00:44",
+            "pourcentage": "0.57",
+            "secondes": 44,
+            "temps": "00h 00m 44s"
+        },
+        "soutien": {
+            "temps_brut": "00:01:10",
+            "pourcentage": "0.11",
+            "secondes": 70,
+            "temps": "00h 01m 10s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:01:54",
+            "pourcentage": "0.15",
+            "secondes": 114,
+            "temps": "00h 01m 54s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:01:54",
+            "pourcentage": "0.15",
+            "secondes": 114,
+            "temps": "00h 01m 54s"
+        }
+    },
+    "JARDIN ALEXANDRE": {
+        "candidat": {
+            "temps_brut": "00:06:39",
+            "pourcentage": "5.15",
+            "secondes": 399,
+            "temps": "00h 06m 39s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:06:39",
+            "pourcentage": "0.54",
+            "secondes": 399,
+            "temps": "00h 06m 39s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:06:39",
+            "pourcentage": "0.53",
+            "secondes": 399,
+            "temps": "00h 06m 39s"
+        }
+    },
+    "LARROUTUROU PIERRE": {
+        "candidat": {
+            "temps_brut": "00:09:25",
+            "pourcentage": "2.32",
+            "secondes": 565,
+            "temps": "00h 09m 25s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:09:25",
+            "pourcentage": "1.01",
+            "secondes": 565,
+            "temps": "00h 09m 25s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:09:25",
+            "pourcentage": "0.6",
+            "secondes": 565,
+            "temps": "00h 09m 25s"
+        }
+    },
+    "LASSALLE JEAN": {
+        "candidat": {
+            "temps_brut": "00:01:03",
+            "pourcentage": "0.81",
+            "secondes": 63,
+            "temps": "00h 01m 03s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:01:03",
+            "pourcentage": "0.09",
+            "secondes": 63,
+            "temps": "00h 01m 03s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:01:03",
+            "pourcentage": "0.08",
+            "secondes": 63,
+            "temps": "00h 01m 03s"
+        }
+    },
+    "LE PEN MARINE": {
+        "candidat": {
+            "temps_brut": "00:04:44",
+            "pourcentage": "3.66",
+            "secondes": 284,
+            "temps": "00h 04m 44s"
+        },
+        "soutien": {
+            "temps_brut": "02:31:35",
+            "pourcentage": "13.78",
+            "secondes": 9095,
+            "temps": "02h 31m 35s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "02:36:19",
+            "pourcentage": "12.72",
+            "secondes": 9379,
+            "temps": "02h 36m 19s"
+        },
+        "antenne": {
+            "temps_brut": "00:01:00",
+            "pourcentage": "3.58",
+            "secondes": 60,
+            "temps": "00h 01m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "02:37:19",
+            "pourcentage": "12.52",
+            "secondes": 9439,
+            "temps": "02h 37m 19s"
+        }
+    },
+    "MACRON EMMANUEL": {
+        "candidat": {
+            "temps_brut": "00:03:18",
+            "pourcentage": "2.55",
+            "secondes": 198,
+            "temps": "00h 03m 18s"
+        },
+        "soutien": {
+            "temps_brut": "03:32:16",
+            "pourcentage": "19.3",
+            "secondes": 12736,
+            "temps": "03h 32m 16s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "03:35:34",
+            "pourcentage": "17.54",
+            "secondes": 12934,
+            "temps": "03h 35m 34s"
+        },
+        "antenne": {
+            "temps_brut": "00:20:34",
+            "pourcentage": "73.67",
+            "secondes": 1234,
+            "temps": "00h 20m 34s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "03:56:08",
+            "pourcentage": "18.79",
+            "secondes": 14168,
+            "temps": "03h 56m 08s"
+        }
+    },
+    "MELENCHON JEAN LUC": {
+        "candidat": {
+            "temps_brut": "00:01:09",
+            "pourcentage": "0.89",
+            "secondes": 69,
+            "temps": "00h 01m 09s"
+        },
+        "soutien": {
+            "temps_brut": "01:16:06",
+            "pourcentage": "6.92",
+            "secondes": 4566,
+            "temps": "01h 16m 06s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "01:17:15",
+            "pourcentage": "6.29",
+            "secondes": 4635,
+            "temps": "01h 17m 15s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "01:17:15",
+            "pourcentage": "6.15",
+            "secondes": 4635,
+            "temps": "01h 17m 15s"
+        }
+    },
+    "POUTOU PHILIPPE": {
+        "candidat": {
+            "temps_brut": "00:00:09",
+            "pourcentage": "0.12",
+            "secondes": 9,
+            "temps": "00h 00m 09s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:09",
+            "pourcentage": "0.01",
+            "secondes": 9,
+            "temps": "00h 00m 09s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:09",
+            "pourcentage": "0.01",
+            "secondes": 9,
+            "temps": "00h 00m 09s"
+        }
+    },
+    "TROADEC CHRISTIAN": {
+        "candidat": {
+            "temps_brut": "00:00:40",
+            "pourcentage": "0.16",
+            "secondes": 40,
+            "temps": "00h 00m 40s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:40",
+            "pourcentage": "0.07",
+            "secondes": 40,
+            "temps": "00h 00m 40s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:40",
+            "pourcentage": "0.04",
+            "secondes": 40,
+            "temps": "00h 00m 40s"
+        }
+    },
+    "ALLIOT MARIE MICHELE": {
+        "candidat": {
+            "temps_brut": "00:44:08",
+            "pourcentage": "34.15",
+            "secondes": 2648,
+            "temps": "00h 44m 08s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:44:08",
+            "pourcentage": "3.59",
+            "secondes": 2648,
+            "temps": "00h 44m 08s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:44:08",
+            "pourcentage": "3.51",
+            "secondes": 2648,
+            "temps": "00h 44m 08s"
+        }
+    },
+    "CHEMINADE JACQUES": {
+        "candidat": {
+            "temps_brut": "00:00:32",
+            "pourcentage": "0.13",
+            "secondes": 32,
+            "temps": "00h 00m 32s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:32",
+            "pourcentage": "0.06",
+            "secondes": 32,
+            "temps": "00h 00m 32s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:32",
+            "pourcentage": "0.03",
+            "secondes": 32,
+            "temps": "00h 00m 32s"
+        }
+    },
+    "GUAINO HENRI": {
+        "candidat": {
+            "temps_brut": "00:00:05",
+            "pourcentage": "0.06",
+            "secondes": 5,
+            "temps": "00h 00m 05s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:05",
+            "pourcentage": "0.01",
+            "secondes": 5,
+            "temps": "00h 00m 05s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:05",
+            "pourcentage": "0.01",
+            "secondes": 5,
+            "temps": "00h 00m 05s"
+        }
+    },
+    "YADE RAMA": {
+        "candidat": {
+            "temps_brut": "00:12:30",
+            "pourcentage": "9.67",
+            "secondes": 750,
+            "temps": "00h 12m 30s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:12:30",
+            "pourcentage": "1.02",
+            "secondes": 750,
+            "temps": "00h 12m 30s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:12:30",
+            "pourcentage": "0.99",
+            "secondes": 750,
+            "temps": "00h 12m 30s"
+        }
+    },
+    "DE LESQUEN HENRY": {
+        "candidat": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:02",
+            "pourcentage": "0.01",
+            "secondes": 2,
+            "temps": "00h 00m 02s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:02",
+            "pourcentage": "0.01",
+            "secondes": 2,
+            "temps": "00h 00m 02s"
+        }
+    },
+    "ASSELINEAU FRANCOIS": {
+        "candidat": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "soutien": {
+            "temps_brut": "00:16:10",
+            "pourcentage": "1.47",
+            "secondes": 970,
+            "temps": "00h 16m 10s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:16:10",
+            "pourcentage": "1.32",
+            "secondes": 970,
+            "temps": "00h 16m 10s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:16:10",
+            "pourcentage": "1.29",
+            "secondes": 970,
+            "temps": "00h 16m 10s"
+        }
+    },
+    "VELTZ BENOIT": {
+        "candidat": {
+            "temps_brut": "00:03:03",
+            "pourcentage": "0.11",
+            "secondes": 183,
+            "temps": "00h 03m 03s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:03:03",
+            "pourcentage": "0.05",
+            "secondes": 183,
+            "temps": "00h 03m 03s"
+        },
+        "antenne": {
+            "temps_brut": "00:05:01",
+            "pourcentage": "0.1",
+            "secondes": 301,
+            "temps": "00h 05m 01s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:08:04",
+            "pourcentage": "0.07",
+            "secondes": 484,
+            "temps": "00h 08m 04s"
+        }
+    },
+    "FAUDOT BASTIEN": {
+        "candidat": {
+            "temps_brut": "00:07:35",
+            "pourcentage": "0.45",
+            "secondes": 455,
+            "temps": "00h 07m 35s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:07:35",
+            "pourcentage": "0.21",
+            "secondes": 455,
+            "temps": "00h 07m 35s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:07:35",
+            "pourcentage": "0.09",
+            "secondes": 455,
+            "temps": "00h 07m 35s"
+        }
+    },
+    "VIGNE FRANCOIS": {
+        "candidat": {
+            "temps_brut": "00:14:08",
+            "pourcentage": "10.94",
+            "secondes": 848,
+            "temps": "00h 14m 08s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:14:08",
+            "pourcentage": "1.15",
+            "secondes": 848,
+            "temps": "00h 14m 08s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:14:08",
+            "pourcentage": "1.12",
+            "secondes": 848,
+            "temps": "00h 14m 08s"
+        }
+    },
+    "MORANDAIS JEAN": {
+        "candidat": {
+            "temps_brut": "00:01:38",
+            "pourcentage": "4.35",
+            "secondes": 98,
+            "temps": "00h 01m 38s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:01:38",
+            "pourcentage": "2.27",
+            "secondes": 98,
+            "temps": "00h 01m 38s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:01:38",
+            "pourcentage": "2.27",
+            "secondes": 98,
+            "temps": "00h 01m 38s"
+        }
+    },
+    "TEMARU OSCAR": {
+        "candidat": {
+            "temps_brut": "00:30:50",
+            "pourcentage": "82.04",
+            "secondes": 1850,
+            "temps": "00h 30m 50s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:22",
+            "pourcentage": "1.06",
+            "secondes": 22,
+            "temps": "00h 00m 22s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:31:12",
+            "pourcentage": "43.31",
+            "secondes": 1872,
+            "temps": "00h 31m 12s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:31:12",
+            "pourcentage": "43.31",
+            "secondes": 1872,
+            "temps": "00h 31m 12s"
+        }
+    },
+    "MARCHANDISE CHARLOTTE": {
+        "candidat": {
+            "temps_brut": "00:00:14",
+            "pourcentage": "0.03",
+            "secondes": 14,
+            "temps": "00h 00m 14s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:14",
+            "pourcentage": "0.01",
+            "secondes": 14,
+            "temps": "00h 00m 14s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:14",
+            "pourcentage": "0",
+            "secondes": 14,
+            "temps": "00h 00m 14s"
+        }
+    },
+    "SMATI RAFIK": {
+        "candidat": {
+            "temps_brut": "00:16:37",
+            "pourcentage": "2.53",
+            "secondes": 997,
+            "temps": "00h 16m 37s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:16:37",
+            "pourcentage": "0.67",
+            "secondes": 997,
+            "temps": "00h 16m 37s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:16:37",
+            "pourcentage": "0.5",
+            "secondes": 997,
+            "temps": "00h 16m 37s"
+        }
+    },
+    "LANG CARL": {
+        "candidat": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:25",
+            "pourcentage": "0.06",
+            "secondes": 25,
+            "temps": "00h 00m 25s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:25",
+            "pourcentage": "0.04",
+            "secondes": 25,
+            "temps": "00h 00m 25s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:25",
+            "pourcentage": "0.03",
+            "secondes": 25,
+            "temps": "00h 00m 25s"
+        }
+    },
+    "BORIE JACQUES": {
+        "candidat": {
+            "temps_brut": "00:06:30",
+            "pourcentage": "0.82",
+            "secondes": 390,
+            "temps": "00h 06m 30s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:06:30",
+            "pourcentage": "0.22",
+            "secondes": 390,
+            "temps": "00h 06m 30s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:06:30",
+            "pourcentage": "0.13",
+            "secondes": 390,
+            "temps": "00h 06m 30s"
+        }
+    },
+    "GUYOT STEPHANE": {
+        "candidat": {
+            "temps_brut": "00:11:20",
+            "pourcentage": "1.43",
+            "secondes": 680,
+            "temps": "00h 11m 20s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:11:20",
+            "pourcentage": "0.39",
+            "secondes": 680,
+            "temps": "00h 11m 20s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:11:20",
+            "pourcentage": "0.23",
+            "secondes": 680,
+            "temps": "00h 11m 20s"
+        }
+    },
+    "PALOMBE JULIA": {
+        "candidat": {
+            "temps_brut": "00:06:20",
+            "pourcentage": "0.8",
+            "secondes": 380,
+            "temps": "00h 06m 20s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:06:20",
+            "pourcentage": "0.22",
+            "secondes": 380,
+            "temps": "00h 06m 20s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:06:20",
+            "pourcentage": "0.13",
+            "secondes": 380,
+            "temps": "00h 06m 20s"
+        }
+    },
+    "SAFORCADA DAVID": {
+        "candidat": {
+            "temps_brut": "00:00:08",
+            "pourcentage": "0.02",
+            "secondes": 8,
+            "temps": "00h 00m 08s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:08",
+            "pourcentage": "0",
+            "secondes": 8,
+            "temps": "00h 00m 08s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:08",
+            "pourcentage": "0",
+            "secondes": 8,
+            "temps": "00h 00m 08s"
+        }
+    },
+    "TAUPIN SEBASTIEN": {
+        "candidat": {
+            "temps_brut": "00:10:00",
+            "pourcentage": "1.26",
+            "secondes": 600,
+            "temps": "00h 10m 00s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:10:00",
+            "pourcentage": "0.34",
+            "secondes": 600,
+            "temps": "00h 10m 00s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:10:00",
+            "pourcentage": "0.2",
+            "secondes": 600,
+            "temps": "00h 10m 00s"
+        }
+    },
+    "TAUZIN DIDIER": {
+        "candidat": {
+            "temps_brut": "00:16:18",
+            "pourcentage": "2.05",
+            "secondes": 978,
+            "temps": "00h 16m 18s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:16:18",
+            "pourcentage": "0.56",
+            "secondes": 978,
+            "temps": "00h 16m 18s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:16:18",
+            "pourcentage": "0.32",
+            "secondes": 978,
+            "temps": "00h 16m 18s"
+        }
+    },
+    "VERNER MAXIME": {
+        "candidat": {
+            "temps_brut": "00:00:16",
+            "pourcentage": "0.03",
+            "secondes": 16,
+            "temps": "00h 00m 16s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:16",
+            "pourcentage": "0.01",
+            "secondes": 16,
+            "temps": "00h 00m 16s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:16",
+            "pourcentage": "0.01",
+            "secondes": 16,
+            "temps": "00h 00m 16s"
+        }
+    },
+    "DE PREVOISIN ROBERT": {
+        "candidat": {
+            "temps_brut": "00:01:46",
+            "pourcentage": "1.37",
+            "secondes": 106,
+            "temps": "00h 01m 46s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:01:46",
+            "pourcentage": "0.14",
+            "secondes": 106,
+            "temps": "00h 01m 46s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:01:46",
+            "pourcentage": "0.14",
+            "secondes": 106,
+            "temps": "00h 01m 46s"
+        }
+    },
+    "TERNOISE STEPHANE": {
+        "candidat": {
+            "temps_brut": "00:00:36",
+            "pourcentage": "0.46",
+            "secondes": 36,
+            "temps": "00h 00m 36s"
+        },
+        "soutien": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_de_parole": {
+            "temps_brut": "00:00:36",
+            "pourcentage": "0.05",
+            "secondes": 36,
+            "temps": "00h 00m 36s"
+        },
+        "antenne": {
+            "temps_brut": "00:00:00",
+            "pourcentage": "0",
+            "secondes": 0,
+            "temps": "00h 00m 00s"
+        },
+        "total_temps_antenne": {
+            "temps_brut": "00:00:36",
+            "pourcentage": "0.05",
+            "secondes": 36,
+            "temps": "00h 00m 36s"
+        }
+    }
+}
