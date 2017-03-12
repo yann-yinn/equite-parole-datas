@@ -80,7 +80,7 @@ class RelevesProcessor:
 
 		data = RelevesProcessor.crawl_sources(self.config, self.meta)
 
-		with open(self.config['DEST'] + 'releve.json', 'w') as output:
+		with open(self.config['DEST'] + 'releves-par-periode.json', 'w') as output:
 			output.write(json.dumps(data))
 
 	@staticmethod
