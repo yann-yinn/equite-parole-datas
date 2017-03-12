@@ -1,12 +1,12 @@
 Candidat;"Détail des temps";"Total journée(durée)";"Total journée (%)"
 "BAYROU FRANCOIS";"Total Temps de parole";00:00:00;0.00
 "BAYROU FRANCOIS";"Total Temps d'antenne";00:00:47;0.13
-"DUPONT AIGNAN NICOLAS";"Total Temps de parole";00:15:21;3.46
 "DUPONT AIGNAN NICOLAS";"Total Temps d'antenne";00:15:21;2.61
-"FILLON FRANCOIS";"Total Temps de parole";02:17:05;30.91
+"DUPONT AIGNAN NICOLAS";"Total Temps de parole";00:15:21;3.46
 "FILLON FRANCOIS";"Total Temps d'antenne";03:23:06;34.57
-"GUAINO HENRI";"Total Temps de parole";00:11:46;2.65
+"FILLON FRANCOIS";"Total Temps de parole";02:17:05;30.91
 "GUAINO HENRI";"Total Temps d'antenne";00:11:46;2.00
+"GUAINO HENRI";"Total Temps de parole";00:11:46;2.65
 "HAMON BENOIT";"Total Temps de parole";01:16:28;17.24
 "HAMON BENOIT";"Total Temps d'antenne";01:18:55;13.43
 "JADOT YANNICK";"Total Temps de parole";00:13:56;3.14
@@ -19,9 +19,9 @@ Candidat;"Détail des temps";"Total journée(durée)";"Total journée (%)"
 "LE PEN MARINE";"Total Temps d'antenne";01:35:02;16.18
 "MACRON EMMANUEL";"Total Temps de parole";01:23:22;18.80
 "MACRON EMMANUEL";"Total Temps d'antenne";02:12:05;22.48
-"MELENCHON JEAN LUC";"Total Temps d'antenne";00:14:50;2.52
 "MELENCHON JEAN LUC";"Total Temps de parole";00:12:32;2.83
-"TROADEC CHRISTIAN";"Total Temps d'antenne";00:00:15;0.04
+"MELENCHON JEAN LUC";"Total Temps d'antenne";00:14:50;2.52
 "TROADEC CHRISTIAN";"Total Temps de parole";00:00:15;0.06
-"YADE RAMA";"Total Temps d'antenne";00:12:13;2.08
+"TROADEC CHRISTIAN";"Total Temps d'antenne";00:00:15;0.04
 "YADE RAMA";"Total Temps de parole";00:12:13;2.75
+"YADE RAMA";"Total Temps d'antenne";00:12:13;2.08
