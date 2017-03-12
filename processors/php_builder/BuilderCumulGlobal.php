@@ -12,7 +12,7 @@ class BuilderCumulGlobal {
   ];
 
   function __construct($filepath) {
-    $this->csv_as_array = get_csv_file_and_parse_it_as_array($filepath);
+    $this->csv_as_array = parse_csv_file_as_array($filepath);
   }
 
   /**
@@ -23,7 +23,7 @@ class BuilderCumulGlobal {
     $array = [];
     foreach ($csv_as_array as $key => $datas) {
       if ($datas[1] == 'Total candidats') continue;
-      $seconds = csa_time_to_seconds($datas[3]);
+      $seconds = time_hhmmss_to_seconds($datas[3]);
       $readable = secondes_to_readable_time($seconds);
       $array[$datas[1]][$this->mapping[$datas[2]]] = [
         'temps_brut' => $datas[3],
@@ -36,13 +36,7 @@ class BuilderCumulGlobal {
   }
 
   function writeAsJson($destination) {
-    $jsonArray = [
-      'data' => $this->process($this->csv_as_array),
-      'metadata' => [
-        'title' => "Tous media confondus du 1er février au 5 mars",
-        "subtitle" => ""
-      ],
-    ];
+    $jsonArray = $this->process($this->csv_as_array);
     $json = json_encode($jsonArray, JSON_PRETTY_PRINT);
     file_put_contents($destination, $json);
   }

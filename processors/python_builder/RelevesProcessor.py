@@ -81,7 +81,7 @@ class RelevesProcessor:
 		data = RelevesProcessor.crawl_sources(self.config, self.meta)
 
 		with open(self.config['DEST'] + 'releve.json', 'w') as output:
-			output.write(json.dumps({"data" : data}))
+			output.write(json.dumps(data))
 
 	@staticmethod
 	def crawl_sources(config, meta):

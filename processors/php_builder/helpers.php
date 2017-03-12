@@ -3,10 +3,10 @@
 /**
  * Create a php array from a csv string.
  *
- * @param string $path csv file path
+ * @param string $path to csv file path
  * @return array
  */
-function get_csv_file_and_parse_it_as_array($path) {
+function parse_csv_file_as_array($path) {
   $row = 1;
   $csv = [];
   if (($handle = fopen($path, "r")) !== FALSE) {
@@ -23,17 +23,17 @@ function get_csv_file_and_parse_it_as_array($path) {
 }
 
 /**
- * De 00:12:02 à un nombre de secondes
- * @param $time
- * @return false|int
+ * De "00:12:02" à un nombre de secondes
+ * @param $time string
+ * @return int
  */
-function csa_time_to_seconds($time) {
+function time_hhmmss_to_seconds($time) {
   return strtotime($time) - strtotime('TODAY');
 }
 
 /**
  * D'une nombre de secondes à 12h 23min 54s
- * @param $seconds
+ * @param $seconds int
  * @return string
  */
 function secondes_to_readable_time($seconds) {
