@@ -1,0 +1,30 @@
+{
+  "ARTHAUD NATHALIE": {
+    "nom": "ARTHAUD NATHALIE",
+    "soutiens": {
+      "temps": "0h 02min 43s",
+      "secondes": 163,
+      "pourcentage": "0%"
+    },
+    "candidat": {
+      "temps": "0h 00min 40s",
+      "secondes": 40,
+      "pourcentage": "0%"
+    },
+    "total_temps_de_parole": {
+      "temps": "0h 03min 23s",
+      "secondes": 203,
+      "pourcentage": "0%"
+    },
+    "antenne": {
+      "temps": "0h 04min 01s",
+      "secondes": 241,
+      "pourcentage": "0%"
+    },
+    "total_temps_antenne": {
+      "temps": "0h 07min 24s",
+      "secondes": 444,
+      "pourcentage": "0%"
+    }
+  }
+}
