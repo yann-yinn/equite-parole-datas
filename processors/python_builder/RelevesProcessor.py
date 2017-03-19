@@ -28,7 +28,7 @@ class RelevesProcessor:
 		data = RelevesProcessor.crawl_sources(self.config, self.meta)
 
 		with open(self.config['DEST'] + 'releves-par-periode.json', 'w') as output:
-			output.write(json.dumps({'data' : data}, sort_keys=True, cls=ReleveJSONEncoder))
+			output.write(json.dumps(data, sort_keys=True, cls=ReleveJSONEncoder))
 
 		# compact for TIME -> Candidat
 		periodes = {}
@@ -49,7 +49,7 @@ class RelevesProcessor:
 				os.mkdir(date_dir)
 
 			with open(date_dir + 'releves-par-candidats.json', 'w') as output:
-				output.write(json.dumps({'data': candidats}, sort_keys=True, cls=ReleveJSONEncoder))
+				output.write(json.dumps(candidats, sort_keys=True, cls=ReleveJSONEncoder))
 
 
 	@staticmethod
