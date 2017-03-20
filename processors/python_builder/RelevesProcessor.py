@@ -57,7 +57,7 @@ class RelevesProcessor:
 			with open(date_dir + 'releves-par-candidats.json', 'w') as output:
 				output.write(json.dumps(candidats, sort_keys=True, cls=ReleveJSONEncoder))
 
-		with open(self.config['DEST'] + 'releve-hebdomadaire-metadonnees.json', 'w') as output:
+		with open(self.config['DEST'] + 'releves-hebdomadaires-metadonnees.json', 'w') as output:
 			output.write(json.dumps(meta_dates, sort_keys=True))
 
 	@staticmethod
