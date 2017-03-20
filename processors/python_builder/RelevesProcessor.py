@@ -43,13 +43,13 @@ class RelevesProcessor:
 						else:
 							periodes[date][candidat] += timeset
 		meta_dates = {
-			'periodes' : []
+			'periodes' : {}
 		}
 		for date, candidats in periodes.items():
-			meta_dates['periodes'].append({
+			meta_dates['periodes'][date] = {
 				'folder' : date,
 				'text' : RelevesProcessor.periodeToReadable(date)
-			})
+			}
 			date_dir = self.config['DEST'] + date + '/'
 			if not os.path.isdir(date_dir):
 				os.mkdir(date_dir)
