@@ -68,5 +68,5 @@ class Generator:
 
 	def writeFile(self):
 		with open(self.output_file, 'w') as output_file:
-			output_file.write(json.dumps(self.output))
+			output_file.write(json.dumps(self.output, sort_keys=True))
 		return True

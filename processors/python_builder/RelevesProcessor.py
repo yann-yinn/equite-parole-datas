@@ -42,14 +42,32 @@ class RelevesProcessor:
 							periodes[date][candidat] = timeset
 						else:
 							periodes[date][candidat] += timeset
-
+		meta_dates = {
+			'periodes' : []
+		}
 		for date, candidats in periodes.items():
+			meta_dates['periodes'].append({
+				'folder' : date,
+				'text' : RelevesProcessor.periodeToReadable(date)
+			})
 			date_dir = self.config['DEST'] + date + '/'
 			if not os.path.isdir(date_dir):
 				os.mkdir(date_dir)
 
 			with open(date_dir + 'releves-par-candidats.json', 'w') as output:
 				output.write(json.dumps(candidats, sort_keys=True, cls=ReleveJSONEncoder))
+
+		with open(self.config['DEST'] + 'releve-hebdomadaire-metadonnees.json', 'w') as output:
+			output.write(json.dumps(meta_dates, sort_keys=True))
+
+	@staticmethod
+	def periodeToReadable(periode):
+		src_format = '%Y-%m-%d'
+		dest_format = '%d/%m/%Y'
+		f, t = periode.split('--')
+		from_date = datetime.strptime(f, src_format)
+		to_date = datetime.strptime(t, src_format)
+		return "Du {0} au {1}".format(datetime.strftime(from_date, dest_format), datetime.strftime(to_date, dest_format))
 
 
 	@staticmethod
