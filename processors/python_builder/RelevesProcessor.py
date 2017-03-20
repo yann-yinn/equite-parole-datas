@@ -67,7 +67,7 @@ class RelevesProcessor:
 		f, t = periode.split('--')
 		from_date = datetime.strptime(f, src_format)
 		to_date = datetime.strptime(t, src_format)
-		return "Du {0} au {1}".format(datetime.strftime(from_date, dest_format), datetime.strftime(to_date, dest_format))
+		return "{0} au {1}".format(datetime.strftime(from_date, dest_format), datetime.strftime(to_date, dest_format))
 
 
 	@staticmethod
