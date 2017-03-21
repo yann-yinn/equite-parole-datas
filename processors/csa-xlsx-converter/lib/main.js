@@ -16,6 +16,7 @@ module.exports = function(filename) {
   const ROWS = ['Candidat', 'Soutiens', 'Total Temps de parole', "Total Temps d'antenne", "Antenne"];
 
   channelLoop:
+  // le fichier excel contient une feuille par canal / chaine
   for(const canal of workbook.SheetNames) {
     let persona = '';
     let truePersona = '';
@@ -24,7 +25,7 @@ module.exports = function(filename) {
     for (const cell in workbook.Sheets[canal]) {
       if(cell[0] === '!' || cell[0] === 'C' || cell === 'A1' || cell === 'B1' ) continue;
       if(cell[0] === 'A') {
-        // si on est sur une ligne qui contient uniquement le nom du candidat
+        // si on arrive sur une ligne qui contient uniquement le nom du candidat
         if(ROWS.indexOf(workbook.Sheets[canal][cell].v) === -1) {
           if(persona) {
             // il y a parfois des parenthèses qui trainent, on vire.
