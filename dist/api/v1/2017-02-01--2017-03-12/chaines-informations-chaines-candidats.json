@@ -1,13 +1,18 @@
 {
   "BFM TV": {
+    "Total candidats": {
+      "Candidat": "59:06:27",
+      "Soutiens": "74:17:55",
+      "Total Temps de parole": "133:24:22",
+      "Antenne": "111:59:44",
+      "Total Temps d'antenne": "245:24:06"
+    },
     "ALLIOT MARIE MICHELE": {
-      "Total candidats": "Candidat",
-      "59:06:27": "Soutiens",
-      "74:17:55": "Total Temps de parole",
-      "133:24:22": "Antenne",
-      "111:59:44": "Total Temps d'antenne",
-      "245:24:06": "Candidat",
-      "0:00:00": "Total Temps d'antenne"
+      "Candidat": "0:11:14",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:11:14",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:11:14"
     },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:17:34",
@@ -23,12 +28,14 @@
       "Antenne": "0:17:27",
       "Total Temps d'antenne": "0:42:31"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "1:01:14",
-      "Soutiens": "0:02:37",
-      "Total Temps de parole": "1:03:51",
-      "Antenne": "0:45:33",
-      "Total Temps d'antenne": "1:49:24"
+    "BAYROU FRANCOIS (Soutien d'E": {
+      " Macron depuis le 22 février 2017)": {
+        "Candidat": "1:01:14",
+        "Soutiens": "0:02:37",
+        "Total Temps de parole": "1:03:51",
+        "Antenne": "0:45:33",
+        "Total Temps d'antenne": "1:49:24"
+      }
     },
     "CHEMINADE JACQUES": {
       "Candidat": "0:11:57",
@@ -65,12 +72,14 @@
       "Antenne": "15:24:59",
       "Total Temps d'antenne": "43:49:45"
     },
-    "JADOT YANNICK": {
-      "Candidat": "1:22:01",
-      "Soutiens": "0:07:05",
-      "Total Temps de parole": "1:29:06",
-      "Antenne": "0:02:45",
-      "Total Temps d'antenne": "1:31:51"
+    "JADOT YANNICK (Soutien de B": {
+      " Hamon depuis le 23 février 2017)": {
+        "Candidat": "1:22:01",
+        "Soutiens": "0:07:05",
+        "Total Temps de parole": "1:29:06",
+        "Antenne": "0:02:45",
+        "Total Temps d'antenne": "1:31:51"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "0:21:20",
@@ -128,7 +137,7 @@
       "Antenne": "0:29:45",
       "Total Temps d'antenne": "1:44:02"
     },
-    "TROADEC CHRISTIAN": {
+    "TROADEC CHRISTIAN (retrait candidature à partir du 6 mars)": {
       "Candidat": "0:03:16",
       "Soutiens": "0:00:00",
       "Total Temps de parole": "0:03:16",
@@ -144,16 +153,19 @@
     }
   },
   "CNEWS": {
+    "Total candidats": {
+      "Candidat": "37:00:17",
+      "Soutiens": "43:02:10",
+      "Total Temps de parole": "80:02:27",
+      "Antenne": "86:18:01",
+      "Total Temps d'antenne": "166:20:28"
+    },
     "ALLIOT MARIE MICHELE": {
-      "Total candidats": "Candidat",
-      "37:00:17": "Soutiens",
-      "43:02:10": "Total Temps de parole",
-      "80:02:27": "Antenne",
-      "86:18:01": "Total Temps d'antenne",
-      "166:20:28": "Candidat",
-      "0:05:09": "Antenne",
-      "0:00:00": "Total Temps de parole",
-      "0:05:19": "Total Temps d'antenne"
+      "Candidat": "0:05:09",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:05:09",
+      "Antenne": "0:05:19",
+      "Total Temps d'antenne": "0:10:28"
     },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:17:42",
@@ -169,12 +181,14 @@
       "Antenne": "0:18:05",
       "Total Temps d'antenne": "0:24:30"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "0:16:12",
-      "Soutiens": "0:13:38",
-      "Total Temps de parole": "0:29:50",
-      "Antenne": "0:53:10",
-      "Total Temps d'antenne": "1:23:00"
+    "BAYROU FRANCOIS (Soutien d'E": {
+      " Macron depuis le 22 février 2017)": {
+        "Candidat": "0:16:12",
+        "Soutiens": "0:13:38",
+        "Total Temps de parole": "0:29:50",
+        "Antenne": "0:53:10",
+        "Total Temps d'antenne": "1:23:00"
+      }
     },
     "CHEMINADE JACQUES": {
       "Candidat": "0:00:45",
@@ -218,12 +232,14 @@
       "Antenne": "10:16:48",
       "Total Temps d'antenne": "28:08:26"
     },
-    "JADOT YANNICK": {
-      "Candidat": "0:39:31",
-      "Soutiens": "0:11:16",
-      "Total Temps de parole": "0:50:47",
-      "Antenne": "0:03:44",
-      "Total Temps d'antenne": "0:54:31"
+    "JADOT YANNICK (Soutien de B": {
+      " Hamon depuis le 23 février 2017)": {
+        "Candidat": "0:39:31",
+        "Soutiens": "0:11:16",
+        "Total Temps de parole": "0:50:47",
+        "Antenne": "0:03:44",
+        "Total Temps d'antenne": "0:54:31"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "0:36:33",
@@ -281,7 +297,7 @@
       "Antenne": "0:05:42",
       "Total Temps d'antenne": "0:28:02"
     },
-    "TROADEC CHRISTIAN": {
+    "TROADEC CHRISTIAN (retrait candidature à partir du 6 mars)": {
       "Candidat": "0:04:04",
       "Soutiens": "0:00:00",
       "Total Temps de parole": "0:04:04",
@@ -297,16 +313,19 @@
     }
   },
   "LCI": {
+    "Total candidats": {
+      "Candidat": "86:14:54",
+      "Soutiens": "78:28:06",
+      "Total Temps de parole": "164:43:00",
+      "Antenne": "131:39:00",
+      "Total Temps d'antenne": "296:22:00"
+    },
     "ALLIOT MARIE MICHELE": {
-      "Total candidats": "Candidat",
-      "86:14:54": "Soutiens",
-      "78:28:06": "Total Temps de parole",
-      "164:43:00": "Antenne",
-      "131:39:00": "Total Temps d'antenne",
-      "296:22:00": "Candidat",
-      "0:14:33": "Antenne",
-      "0:00:00": "Total Temps de parole",
-      "0:00:19": "Total Temps d'antenne"
+      "Candidat": "0:14:33",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:14:33",
+      "Antenne": "0:00:19",
+      "Total Temps d'antenne": "0:14:52"
     },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:24:04",
@@ -322,12 +341,14 @@
       "Antenne": "0:15:40",
       "Total Temps d'antenne": "0:20:47"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "1:16:44",
-      "Soutiens": "0:12:08",
-      "Total Temps de parole": "1:28:52",
-      "Antenne": "2:55:28",
-      "Total Temps d'antenne": "4:24:20"
+    "BAYROU FRANCOIS (Soutien d'E": {
+      " Macron depuis le 22 février 2017)": {
+        "Candidat": "1:16:44",
+        "Soutiens": "0:12:08",
+        "Total Temps de parole": "1:28:52",
+        "Antenne": "2:55:28",
+        "Total Temps d'antenne": "4:24:20"
+      }
     },
     "CHEMINADE JACQUES": {
       "Candidat": "0:20:41",
@@ -364,12 +385,14 @@
       "Antenne": "12:17:37",
       "Total Temps d'antenne": "38:45:19"
     },
-    "JADOT YANNICK": {
-      "Candidat": "0:24:15",
-      "Soutiens": "1:42:06",
-      "Total Temps de parole": "2:06:21",
-      "Antenne": "0:26:52",
-      "Total Temps d'antenne": "2:33:13"
+    "JADOT YANNICK (Soutien de B": {
+      " HAMON depuis le 23 février)": {
+        "Candidat": "0:24:15",
+        "Soutiens": "1:42:06",
+        "Total Temps de parole": "2:06:21",
+        "Antenne": "0:26:52",
+        "Total Temps d'antenne": "2:33:13"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "0:15:36",
@@ -427,7 +450,7 @@
       "Antenne": "0:07:33",
       "Total Temps d'antenne": "0:23:29"
     },
-    "TROADEC CHRISTIAN": {
+    "TROADEC CHRISTIAN (retrait candidature à partir du 6 mars)": {
       "Candidat": "0:00:09",
       "Soutiens": "0:00:00",
       "Total Temps de parole": "0:00:09",
@@ -436,16 +459,19 @@
     }
   },
   "FRANCEINFO": {
+    "Total candidats": {
+      "Candidat": "30:33:17",
+      "Soutiens": "31:54:08",
+      "Total Temps de parole": "62:27:25",
+      "Antenne": "96:35:30",
+      "Total Temps d'antenne": "159:02:55"
+    },
     "ALLIOT MARIE MICHELE": {
-      "Total candidats": "Candidat",
-      "30:33:17": "Soutiens",
-      "31:54:08": "Total Temps de parole",
-      "62:27:25": "Antenne",
-      "96:35:30": "Total Temps d'antenne",
-      "159:02:55": "Candidat",
-      "0:30:45": "Antenne",
-      "0:00:00": "Total Temps de parole",
-      "0:00:59": "Total Temps d'antenne"
+      "Candidat": "0:30:45",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:30:45",
+      "Antenne": "0:00:59",
+      "Total Temps d'antenne": "0:31:44"
     },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:16:29",
@@ -496,12 +522,14 @@
       "Antenne": "7:01:11",
       "Total Temps d'antenne": "18:21:58"
     },
-    "JADOT YANNICK": {
-      "Candidat": "0:36:16",
-      "Soutiens": "0:29:06",
-      "Total Temps de parole": "1:05:22",
-      "Antenne": "0:21:50",
-      "Total Temps d'antenne": "1:27:12"
+    "JADOT YANNICK (Soutien de B": {
+      " Hamon depuis le 23 février 2017)": {
+        "Candidat": "0:36:16",
+        "Soutiens": "0:29:06",
+        "Total Temps de parole": "1:05:22",
+        "Antenne": "0:21:50",
+        "Total Temps d'antenne": "1:27:12"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "0:16:39",

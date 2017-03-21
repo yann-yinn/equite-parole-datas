@@ -7,12 +7,14 @@
       "Antenne": "00:01:14",
       "Total Temps d'antenne": "00:02:04"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:00:06",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:00:06",
-      "Antenne": "00:00:26",
-      "Total Temps d'antenne": "00:00:32"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:00:06",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:00:06",
+        "Antenne": "00:00:26",
+        "Total Temps d'antenne": "00:00:32"
+      }
     },
     "DUPONT AIGNAN NICOLAS": {
       "Candidat": "00:05:36",
@@ -35,12 +37,14 @@
       "Antenne": "00:10:46",
       "Total Temps d'antenne": "00:24:31"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:00:55",
-      "Soutiens": "00:00:15",
-      "Total Temps de parole": "00:01:10",
-      "Antenne": "00:02:22",
-      "Total Temps d'antenne": "00:03:32"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:00:55",
+        "Soutiens": "00:00:15",
+        "Total Temps de parole": "00:01:10",
+        "Antenne": "00:02:22",
+        "Total Temps d'antenne": "00:03:32"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "00:00:00",
@@ -83,6 +87,13 @@
       "Total Temps de parole": "00:00:00",
       "Antenne": "00:00:04",
       "Total Temps d'antenne": "00:00:04"
+    },
+    "TROADEC CHRISTIAN": {
+      "Candidat": "00:00:09",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:09",
+      "Antenne": "00:00:11",
+      "Total Temps d'antenne": "00:00:20"
     }
   },
   "FRANCE 2": {
@@ -100,12 +111,14 @@
       "Antenne": "00:00:02",
       "Total Temps d'antenne": "00:00:02"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:59:44",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:59:44",
-      "Antenne": "00:09:27",
-      "Total Temps d'antenne": "01:09:11"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:59:44",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:59:44",
+        "Antenne": "00:09:27",
+        "Total Temps d'antenne": "01:09:11"
+      }
     },
     "CHEMINADE JACQUES": {
       "Candidat": "00:00:00",
@@ -142,12 +155,14 @@
       "Antenne": "00:24:58",
       "Total Temps d'antenne": "01:37:45"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:10:32",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:10:32",
-      "Antenne": "00:00:41",
-      "Total Temps d'antenne": "00:11:13"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:10:32",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:10:32",
+        "Antenne": "00:00:41",
+        "Total Temps d'antenne": "00:11:13"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "00:00:00",
@@ -183,15 +198,24 @@
       "Total Temps de parole": "01:42:14",
       "Antenne": "00:14:32",
       "Total Temps d'antenne": "01:56:46"
+    },
+    "POUTOU PHILIPPE": {
+      "Candidat": "00:28:59",
+      "Soutiens": "00:00:10",
+      "Total Temps de parole": "00:29:09",
+      "Antenne": "00:00:19",
+      "Total Temps d'antenne": "00:29:28"
     }
   },
   "FRANCE 3": {
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:24:48",
-      "Soutiens": "00:00:31",
-      "Total Temps de parole": "00:25:19",
-      "Antenne": "00:03:22",
-      "Total Temps d'antenne": "00:28:41"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:24:48",
+        "Soutiens": "00:00:31",
+        "Total Temps de parole": "00:25:19",
+        "Antenne": "00:03:22",
+        "Total Temps d'antenne": "00:28:41"
+      }
     },
     "DUPONT AIGNAN NICOLAS": {
       "Candidat": "00:00:00",
@@ -214,12 +238,14 @@
       "Antenne": "00:15:38",
       "Total Temps d'antenne": "01:03:37"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:00:24",
-      "Soutiens": "00:05:04",
-      "Total Temps de parole": "00:05:28",
-      "Antenne": "00:03:28",
-      "Total Temps d'antenne": "00:08:56"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:00:24",
+        "Soutiens": "00:05:04",
+        "Total Temps de parole": "00:05:28",
+        "Antenne": "00:03:28",
+        "Total Temps d'antenne": "00:08:56"
+      }
     },
     "LASSALLE JEAN": {
       "Candidat": "00:00:55",
@@ -255,6 +281,13 @@
       "Total Temps de parole": "00:00:11",
       "Antenne": "00:00:18",
       "Total Temps d'antenne": "00:00:29"
+    },
+    "YADE RAMA": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:06",
+      "Total Temps d'antenne": "00:00:06"
     }
   },
   "C+": {
@@ -272,12 +305,14 @@
       "Antenne": "00:00:02",
       "Total Temps d'antenne": "00:00:02"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:00:06",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:00:06",
-      "Antenne": "00:00:22",
-      "Total Temps d'antenne": "00:00:28"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:00:06",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:00:06",
+        "Antenne": "00:00:22",
+        "Total Temps d'antenne": "00:00:28"
+      }
     },
     "CHEMINADE JACQUES": {
       "Candidat": "00:00:15",
@@ -314,12 +349,14 @@
       "Antenne": "00:11:38",
       "Total Temps d'antenne": "00:27:39"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:13:51",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:13:51",
-      "Antenne": "00:03:38",
-      "Total Temps d'antenne": "00:17:29"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:13:51",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:13:51",
+        "Antenne": "00:03:38",
+        "Total Temps d'antenne": "00:17:29"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "00:03:06",
@@ -362,15 +399,24 @@
       "Total Temps de parole": "00:00:35",
       "Antenne": "00:01:16",
       "Total Temps d'antenne": "00:01:51"
+    },
+    "YADE RAMA": {
+      "Candidat": "00:09:06",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:09:06",
+      "Antenne": "00:03:30",
+      "Total Temps d'antenne": "00:12:36"
     }
   },
   "FRANCE 5": {
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:03:16",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:03:16",
-      "Antenne": "00:09:25",
-      "Total Temps d'antenne": "00:12:41"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:03:16",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:03:16",
+        "Antenne": "00:09:25",
+        "Total Temps d'antenne": "00:12:41"
+      }
     },
     "DUPONT AIGNAN NICOLAS": {
       "Candidat": "00:00:30",
@@ -400,12 +446,14 @@
       "Antenne": "01:19:52",
       "Total Temps d'antenne": "02:28:28"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:24:09",
-      "Soutiens": "00:03:18",
-      "Total Temps de parole": "00:27:27",
-      "Antenne": "00:08:14",
-      "Total Temps d'antenne": "00:35:41"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:24:09",
+        "Soutiens": "00:03:18",
+        "Total Temps de parole": "00:27:27",
+        "Antenne": "00:08:14",
+        "Total Temps d'antenne": "00:35:41"
+      }
     },
     "LARROUTUROU PIERRE": {
       "Candidat": "00:00:06",
@@ -441,15 +489,24 @@
       "Total Temps de parole": "00:12:08",
       "Antenne": "00:51:17",
       "Total Temps d'antenne": "01:03:25"
+    },
+    "POUTOU PHILIPPE": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:12:30",
+      "Total Temps de parole": "00:12:30",
+      "Antenne": "00:00:49",
+      "Total Temps d'antenne": "00:13:19"
     }
   },
   "M6": {
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:00:13",
-      "Soutiens": "00:00:40",
-      "Total Temps de parole": "00:00:53",
-      "Antenne": "00:01:20",
-      "Total Temps d'antenne": "00:02:13"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:00:13",
+        "Soutiens": "00:00:40",
+        "Total Temps de parole": "00:00:53",
+        "Antenne": "00:01:20",
+        "Total Temps d'antenne": "00:02:13"
+      }
     },
     "DUPONT AIGNAN NICOLAS": {
       "Candidat": "00:00:25",
@@ -479,12 +536,14 @@
       "Antenne": "00:09:16",
       "Total Temps d'antenne": "00:13:49"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:01:04",
-      "Soutiens": "00:00:20",
-      "Total Temps de parole": "00:01:24",
-      "Antenne": "00:01:48",
-      "Total Temps d'antenne": "00:03:12"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:01:04",
+        "Soutiens": "00:00:20",
+        "Total Temps de parole": "00:01:24",
+        "Antenne": "00:01:48",
+        "Total Temps d'antenne": "00:03:12"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "00:00:16",
@@ -513,6 +572,13 @@
       "Total Temps de parole": "00:02:07",
       "Antenne": "00:06:21",
       "Total Temps d'antenne": "00:08:28"
+    },
+    "POUTOU PHILIPPE": {
+      "Candidat": "00:00:32",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:32",
+      "Antenne": "00:00:29",
+      "Total Temps d'antenne": "00:01:01"
     }
   },
   "C8": {
@@ -523,12 +589,14 @@
       "Antenne": "00:02:43",
       "Total Temps d'antenne": "00:05:16"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:00:31",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:00:31",
-      "Antenne": "00:03:37",
-      "Total Temps d'antenne": "00:04:08"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:00:31",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:00:31",
+        "Antenne": "00:03:37",
+        "Total Temps d'antenne": "00:04:08"
+      }
     },
     "CHEMINADE JACQUES": {
       "Candidat": "00:00:45",
@@ -558,12 +626,14 @@
       "Antenne": "00:06:36",
       "Total Temps d'antenne": "00:09:42"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:00:40",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:00:40",
-      "Antenne": "00:00:02",
-      "Total Temps d'antenne": "00:00:42"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:00:40",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:00:40",
+        "Antenne": "00:00:02",
+        "Total Temps d'antenne": "00:00:42"
+      }
     },
     "LE PEN MARINE": {
       "Candidat": "00:03:08",
@@ -592,6 +662,13 @@
       "Total Temps de parole": "00:01:07",
       "Antenne": "00:01:46",
       "Total Temps d'antenne": "00:02:53"
+    },
+    "YADE RAMA": {
+      "Candidat": "00:00:22",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:22",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:00:22"
     }
   },
   "TMC": {
@@ -602,12 +679,14 @@
       "Antenne": "00:04:46",
       "Total Temps d'antenne": "00:05:58"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:02:12",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:02:12",
-      "Antenne": "00:02:49",
-      "Total Temps d'antenne": "00:05:01"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:02:12",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:02:12",
+        "Antenne": "00:02:49",
+        "Total Temps d'antenne": "00:05:01"
+      }
     },
     "DUPONT AIGNAN NICOLAS": {
       "Candidat": "00:05:27",
@@ -637,12 +716,14 @@
       "Antenne": "00:09:23",
       "Total Temps d'antenne": "00:24:45"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:00:09",
-      "Soutiens": "00:00:16",
-      "Total Temps de parole": "00:00:25",
-      "Antenne": "00:00:46",
-      "Total Temps d'antenne": "00:01:11"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:00:09",
+        "Soutiens": "00:00:16",
+        "Total Temps de parole": "00:00:25",
+        "Antenne": "00:00:46",
+        "Total Temps d'antenne": "00:01:11"
+      }
     },
     "JARDIN ALEXANDRE": {
       "Candidat": "00:00:04",
@@ -678,15 +759,24 @@
       "Total Temps de parole": "00:00:59",
       "Antenne": "00:01:52",
       "Total Temps d'antenne": "00:02:51"
+    },
+    "YADE RAMA": {
+      "Candidat": "00:00:31",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:31",
+      "Antenne": "00:00:12",
+      "Total Temps d'antenne": "00:00:43"
     }
   },
   "NT1": {
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:00:00",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:00:00",
-      "Antenne": "00:00:06",
-      "Total Temps d'antenne": "00:00:06"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:00:00",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:00:00",
+        "Antenne": "00:00:06",
+        "Total Temps d'antenne": "00:00:06"
+      }
     },
     "FILLON FRANCOIS": {
       "Candidat": "00:00:00",
@@ -715,6 +805,13 @@
       "Total Temps de parole": "00:00:00",
       "Antenne": "00:00:29",
       "Total Temps d'antenne": "00:00:29"
+    },
+    "MELENCHON JEAN LUC": {
+      "Candidat": "00:00:00",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:00:00",
+      "Antenne": "00:00:34",
+      "Total Temps d'antenne": "00:00:34"
     }
   },
   "FRANCEO": {
@@ -752,6 +849,13 @@
       "Total Temps de parole": "00:01:38",
       "Antenne": "00:00:00",
       "Total Temps d'antenne": "00:01:38"
+    },
+    "TEMARU OSCAR": {
+      "Candidat": "00:30:40",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:30:40",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:30:40"
     }
   },
   "RMC DECOUVERTE": {
@@ -762,12 +866,14 @@
       "Antenne": "00:00:00",
       "Total Temps d'antenne": "00:00:23"
     },
-    "BAYROU FRANCOIS": {
-      "Candidat": "00:01:13",
-      "Soutiens": "00:00:00",
-      "Total Temps de parole": "00:01:13",
-      "Antenne": "00:10:09",
-      "Total Temps d'antenne": "00:11:22"
+    "BAYROU FRANCOIS (soutien d'E": {
+      " Macron à partir du 22/02)": {
+        "Candidat": "00:01:13",
+        "Soutiens": "00:00:00",
+        "Total Temps de parole": "00:01:13",
+        "Antenne": "00:10:09",
+        "Total Temps d'antenne": "00:11:22"
+      }
     },
     "DUPONT AIGNAN NICOLAS": {
       "Candidat": "00:07:41",
@@ -790,12 +896,14 @@
       "Antenne": "00:03:40",
       "Total Temps d'antenne": "00:58:02"
     },
-    "JADOT YANNICK": {
-      "Candidat": "00:00:18",
-      "Soutiens": "00:07:29",
-      "Total Temps de parole": "00:07:47",
-      "Antenne": "00:00:00",
-      "Total Temps d'antenne": "00:07:47"
+    "JADOT YANNICK (soutien de B": {
+      " Hamon à partir du 23/02)": {
+        "Candidat": "00:00:18",
+        "Soutiens": "00:07:29",
+        "Total Temps de parole": "00:07:47",
+        "Antenne": "00:00:00",
+        "Total Temps d'antenne": "00:07:47"
+      }
     },
     "LASSALLE JEAN": {
       "Candidat": "00:08:31",
@@ -831,6 +939,13 @@
       "Total Temps de parole": "00:00:13",
       "Antenne": "00:00:00",
       "Total Temps d'antenne": "00:00:13"
+    },
+    "YADE RAMA": {
+      "Candidat": "00:10:10",
+      "Soutiens": "00:00:00",
+      "Total Temps de parole": "00:10:10",
+      "Antenne": "00:00:00",
+      "Total Temps d'antenne": "00:10:10"
     }
   }
 }
