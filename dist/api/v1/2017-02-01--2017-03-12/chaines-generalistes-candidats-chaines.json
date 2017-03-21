@@ -144,6 +144,13 @@
       "Antenne": "0:23:30",
       "Total Temps d'antenne": "0:28:54"
     },
+    "M6": {
+      "Candidat": "0:00:50",
+      "Soutiens": "0:00:11",
+      "Total Temps de parole": "0:01:01",
+      "Antenne": "0:02:19",
+      "Total Temps d'antenne": "0:03:20"
+    },
     "C8": {
       "Candidat": "0:00:00",
       "Soutiens": "0:00:00",
@@ -173,71 +180,76 @@
       "Total Temps d'antenne": "0:03:09"
     }
   },
-  "BAYROU FRANCOIS (soutien d'E": {
-    " Macron à partir du 22/02)": {
-      "TF1": {
-        "Candidat": "0:00:06",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:06",
-        "Antenne": "0:00:26",
-        "Total Temps d'antenne": "0:00:32"
-      },
-      "FRANCE 2": {
-        "Candidat": "0:59:44",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:59:44",
-        "Antenne": "0:09:27",
-        "Total Temps d'antenne": "1:09:11"
-      },
-      "FRANCE 3": {
-        "Candidat": "0:24:48",
-        "Soutiens": "0:00:31",
-        "Total Temps de parole": "0:25:19",
-        "Antenne": "0:03:22",
-        "Total Temps d'antenne": "0:28:41"
-      },
-      "C+": {
-        "Candidat": "0:00:06",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:06",
-        "Antenne": "0:00:22",
-        "Total Temps d'antenne": "0:00:28"
-      },
-      "FRANCE 5": {
-        "Candidat": "0:03:16",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:03:16",
-        "Antenne": "0:09:25",
-        "Total Temps d'antenne": "0:12:41"
-      },
-      "C8": {
-        "Candidat": "0:00:31",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:31",
-        "Antenne": "0:03:37",
-        "Total Temps d'antenne": "0:04:08"
-      },
-      "TMC": {
-        "Candidat": "0:02:12",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:02:12",
-        "Antenne": "0:02:49",
-        "Total Temps d'antenne": "0:05:01"
-      },
-      "NT1": {
-        "Candidat": "0:00:00",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:00",
-        "Antenne": "0:00:06",
-        "Total Temps d'antenne": "0:00:06"
-      },
-      "RMC DECOUVERTE": {
-        "Candidat": "0:01:13",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:01:13",
-        "Antenne": "0:10:09",
-        "Total Temps d'antenne": "0:11:22"
-      }
+  "BAYROU FRANCOIS": {
+    "TF1": {
+      "Candidat": "0:00:06",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:06",
+      "Antenne": "0:00:26",
+      "Total Temps d'antenne": "0:00:32"
+    },
+    "FRANCE 2": {
+      "Candidat": "0:59:44",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:59:44",
+      "Antenne": "0:09:27",
+      "Total Temps d'antenne": "1:09:11"
+    },
+    "FRANCE 3": {
+      "Candidat": "0:24:48",
+      "Soutiens": "0:00:31",
+      "Total Temps de parole": "0:25:19",
+      "Antenne": "0:03:22",
+      "Total Temps d'antenne": "0:28:41"
+    },
+    "C+": {
+      "Candidat": "0:00:06",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:06",
+      "Antenne": "0:00:22",
+      "Total Temps d'antenne": "0:00:28"
+    },
+    "FRANCE 5": {
+      "Candidat": "0:03:16",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:03:16",
+      "Antenne": "0:09:25",
+      "Total Temps d'antenne": "0:12:41"
+    },
+    "M6": {
+      "Candidat": "0:00:13",
+      "Soutiens": "0:00:40",
+      "Total Temps de parole": "0:00:53",
+      "Antenne": "0:01:20",
+      "Total Temps d'antenne": "0:02:13"
+    },
+    "C8": {
+      "Candidat": "0:00:31",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:31",
+      "Antenne": "0:03:37",
+      "Total Temps d'antenne": "0:04:08"
+    },
+    "TMC": {
+      "Candidat": "0:02:12",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:02:12",
+      "Antenne": "0:02:49",
+      "Total Temps d'antenne": "0:05:01"
+    },
+    "NT1": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:00",
+      "Antenne": "0:00:06",
+      "Total Temps d'antenne": "0:00:06"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "0:01:13",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:01:13",
+      "Antenne": "0:10:09",
+      "Total Temps d'antenne": "0:11:22"
     }
   },
   "CHEMINADE JACQUES": {
@@ -514,71 +526,69 @@
       "Total Temps d'antenne": "1:42:16"
     }
   },
-  "JADOT YANNICK (soutien de B": {
-    " Hamon à partir du 23/02)": {
-      "TF1": {
-        "Candidat": "0:00:55",
-        "Soutiens": "0:00:15",
-        "Total Temps de parole": "0:01:10",
-        "Antenne": "0:02:22",
-        "Total Temps d'antenne": "0:03:32"
-      },
-      "FRANCE 2": {
-        "Candidat": "0:10:32",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:10:32",
-        "Antenne": "0:00:41",
-        "Total Temps d'antenne": "0:11:13"
-      },
-      "FRANCE 3": {
-        "Candidat": "0:00:24",
-        "Soutiens": "0:05:04",
-        "Total Temps de parole": "0:05:28",
-        "Antenne": "0:03:28",
-        "Total Temps d'antenne": "0:08:56"
-      },
-      "C+": {
-        "Candidat": "0:13:51",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:13:51",
-        "Antenne": "0:03:38",
-        "Total Temps d'antenne": "0:17:29"
-      },
-      "FRANCE 5": {
-        "Candidat": "0:24:09",
-        "Soutiens": "0:03:18",
-        "Total Temps de parole": "0:27:27",
-        "Antenne": "0:08:14",
-        "Total Temps d'antenne": "0:35:41"
-      },
-      "M6": {
-        "Candidat": "0:01:04",
-        "Soutiens": "0:00:20",
-        "Total Temps de parole": "0:01:24",
-        "Antenne": "0:01:48",
-        "Total Temps d'antenne": "0:03:12"
-      },
-      "C8": {
-        "Candidat": "0:00:40",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:40",
-        "Antenne": "0:00:02",
-        "Total Temps d'antenne": "0:00:42"
-      },
-      "TMC": {
-        "Candidat": "0:00:09",
-        "Soutiens": "0:00:16",
-        "Total Temps de parole": "0:00:25",
-        "Antenne": "0:00:46",
-        "Total Temps d'antenne": "0:01:11"
-      },
-      "RMC DECOUVERTE": {
-        "Candidat": "0:00:18",
-        "Soutiens": "0:07:29",
-        "Total Temps de parole": "0:07:47",
-        "Antenne": "0:00:00",
-        "Total Temps d'antenne": "0:07:47"
-      }
+  "JADOT YANNICK": {
+    "TF1": {
+      "Candidat": "0:00:55",
+      "Soutiens": "0:00:15",
+      "Total Temps de parole": "0:01:10",
+      "Antenne": "0:02:22",
+      "Total Temps d'antenne": "0:03:32"
+    },
+    "FRANCE 2": {
+      "Candidat": "0:10:32",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:10:32",
+      "Antenne": "0:00:41",
+      "Total Temps d'antenne": "0:11:13"
+    },
+    "FRANCE 3": {
+      "Candidat": "0:00:24",
+      "Soutiens": "0:05:04",
+      "Total Temps de parole": "0:05:28",
+      "Antenne": "0:03:28",
+      "Total Temps d'antenne": "0:08:56"
+    },
+    "C+": {
+      "Candidat": "0:13:51",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:13:51",
+      "Antenne": "0:03:38",
+      "Total Temps d'antenne": "0:17:29"
+    },
+    "FRANCE 5": {
+      "Candidat": "0:24:09",
+      "Soutiens": "0:03:18",
+      "Total Temps de parole": "0:27:27",
+      "Antenne": "0:08:14",
+      "Total Temps d'antenne": "0:35:41"
+    },
+    "M6": {
+      "Candidat": "0:01:04",
+      "Soutiens": "0:00:20",
+      "Total Temps de parole": "0:01:24",
+      "Antenne": "0:01:48",
+      "Total Temps d'antenne": "0:03:12"
+    },
+    "C8": {
+      "Candidat": "0:00:40",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:40",
+      "Antenne": "0:00:02",
+      "Total Temps d'antenne": "0:00:42"
+    },
+    "TMC": {
+      "Candidat": "0:00:09",
+      "Soutiens": "0:00:16",
+      "Total Temps de parole": "0:00:25",
+      "Antenne": "0:00:46",
+      "Total Temps d'antenne": "0:01:11"
+    },
+    "RMC DECOUVERTE": {
+      "Candidat": "0:00:18",
+      "Soutiens": "0:07:29",
+      "Total Temps de parole": "0:07:47",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:07:47"
     }
   },
   "JARDIN ALEXANDRE": {
@@ -1093,27 +1103,7 @@
       "Total Temps d'antenne": "0:01:00"
     }
   },
-  "ASSELINEAU FRANCOIS (soutien d'E": {
-    " Macron à partir du 22/02)": {
-      "M6": {
-        "Candidat": "0:00:50",
-        "Soutiens": "0:00:11",
-        "Total Temps de parole": "0:01:01",
-        "Antenne": "0:02:19",
-        "Total Temps d'antenne": "0:03:20"
-      }
-    }
-  },
-  "BAYROU FRANCOIS": {
-    "M6": {
-      "Candidat": "0:00:13",
-      "Soutiens": "0:00:40",
-      "Total Temps de parole": "0:00:53",
-      "Antenne": "0:01:20",
-      "Total Temps d'antenne": "0:02:13"
-    }
-  },
-  "DE LESQUEN HENRY (retrait de candidature le 03/03)": {
+  "DE LESQUEN HENRY": {
     "C8": {
       "Candidat": "0:00:00",
       "Soutiens": "0:00:00",

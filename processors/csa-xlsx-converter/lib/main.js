@@ -18,6 +18,7 @@ module.exports = function(filename) {
   channelLoop:
   for(const canal of workbook.SheetNames) {
     let persona = '';
+    let truePersona = '';
     let attrs = [];
     let finalattrs = [];
     for (const cell in workbook.Sheets[canal]) {
@@ -26,11 +27,14 @@ module.exports = function(filename) {
         // si on est sur une ligne qui contient uniquement le nom du candidat
         if(ROWS.indexOf(workbook.Sheets[canal][cell].v) === -1) {
           if(persona) {
+            // il y a parfois des parenthèses qui trainent, on vire.
+            // par exemple : François Bayrou (soutien de Macron depuis xxx)
+            truePersona = persona.replace(/\s*\(.*?\)\s*/g, '');
             // on ne veut pas la ligne du total des candidats dans notre json
             if (persona !== 'Total candidats') {
               finalattrs = _.fromPairs(_.chunk(attrs,2));
-              _.set(perPersona, `${persona}.${canal}`, finalattrs);
-              _.set(perChannel, `${canal}.${persona}`, finalattrs);
+              _.set(perPersona, `${truePersona}.${canal}`, finalattrs);
+              _.set(perChannel, `${canal}.${truePersona}`, finalattrs);
             }
             attrs = [];
           }

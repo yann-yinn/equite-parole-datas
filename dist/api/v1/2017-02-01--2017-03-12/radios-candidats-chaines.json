@@ -472,80 +472,76 @@
       "Total Temps d'antenne": "5:29:56"
     }
   },
-  "JADOT YANNICK (soutien de B": {
-    " Hamon à compter du 23 février)": {
-      "France Inter": {
-        "Candidat": "0:08:01",
-        "Soutiens": "0:20:44",
-        "Total Temps de parole": "0:28:45",
-        "Antenne": "0:03:35",
-        "Total Temps d'antenne": "0:32:20"
-      },
-      "France Info": {
-        "Candidat": "0:30:51",
-        "Soutiens": "1:15:50",
-        "Total Temps de parole": "1:46:41",
-        "Antenne": "0:07:16",
-        "Total Temps d'antenne": "1:53:57"
-      },
-      "France Culture": {
-        "Candidat": "0:07:56",
-        "Soutiens": "0:41:18",
-        "Total Temps de parole": "0:49:14",
-        "Antenne": "0:06:00",
-        "Total Temps d'antenne": "0:55:14"
-      },
-      "France Musique": {
-        "Candidat": "0:00:00",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:00",
-        "Antenne": "0:00:48",
-        "Total Temps d'antenne": "0:00:48"
-      }
+  "JADOT YANNICK": {
+    "France Inter": {
+      "Candidat": "0:08:01",
+      "Soutiens": "0:20:44",
+      "Total Temps de parole": "0:28:45",
+      "Antenne": "0:03:35",
+      "Total Temps d'antenne": "0:32:20"
     },
-    " Hamon à partir du 23/02/2017)": {
-      "Radio Classique": {
-        "Candidat": "0:13:56",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:13:56",
-        "Antenne": "0:00:00",
-        "Total Temps d'antenne": "0:13:56"
-      },
-      "BFM Business": {
-        "Candidat": "0:00:00",
-        "Soutiens": "0:05:15",
-        "Total Temps de parole": "0:05:15",
-        "Antenne": "0:00:00",
-        "Total Temps d'antenne": "0:05:15"
-      },
-      "RMC": {
-        "Candidat": "0:21:49",
-        "Soutiens": "0:08:57",
-        "Total Temps de parole": "0:30:46",
-        "Antenne": "0:00:24",
-        "Total Temps d'antenne": "0:31:10"
-      },
-      "Europe 1": {
-        "Candidat": "0:48:06",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:48:06",
-        "Antenne": "0:13:11",
-        "Total Temps d'antenne": "1:01:17"
-      },
-      "RTL": {
-        "Candidat": "0:00:59",
-        "Soutiens": "0:00:37",
-        "Total Temps de parole": "0:01:36",
-        "Antenne": "0:00:00",
-        "Total Temps d'antenne": "0:01:36"
-      },
-      "Sud Radio": {
-        "Candidat": "0:00:44",
-        "Soutiens": "0:01:10",
-        "Total Temps de parole": "0:01:54",
-        "Antenne": "0:00:00",
-        "Total Temps d'antenne": "0:01:54"
-      }
+    "France Info": {
+      "Candidat": "0:30:51",
+      "Soutiens": "1:15:50",
+      "Total Temps de parole": "1:46:41",
+      "Antenne": "0:07:16",
+      "Total Temps d'antenne": "1:53:57"
+    },
+    "France Culture": {
+      "Candidat": "0:07:56",
+      "Soutiens": "0:41:18",
+      "Total Temps de parole": "0:49:14",
+      "Antenne": "0:06:00",
+      "Total Temps d'antenne": "0:55:14"
+    },
+    "France Musique": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:00",
+      "Antenne": "0:00:48",
+      "Total Temps d'antenne": "0:00:48"
+    },
+    "Radio Classique": {
+      "Candidat": "0:13:56",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:13:56",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:13:56"
+    },
+    "BFM Business": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:05:15",
+      "Total Temps de parole": "0:05:15",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:05:15"
+    },
+    "RMC": {
+      "Candidat": "0:21:49",
+      "Soutiens": "0:08:57",
+      "Total Temps de parole": "0:30:46",
+      "Antenne": "0:00:24",
+      "Total Temps d'antenne": "0:31:10"
+    },
+    "Europe 1": {
+      "Candidat": "0:48:06",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:48:06",
+      "Antenne": "0:13:11",
+      "Total Temps d'antenne": "1:01:17"
+    },
+    "RTL": {
+      "Candidat": "0:00:59",
+      "Soutiens": "0:00:37",
+      "Total Temps de parole": "0:01:36",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:01:36"
+    },
+    "Sud Radio": {
+      "Candidat": "0:00:44",
+      "Soutiens": "0:01:10",
+      "Total Temps de parole": "0:01:54",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:01:54"
     }
   },
   "JARDIN ALEXANDRE": {
@@ -986,7 +982,7 @@
       "Total Temps d'antenne": "0:12:19"
     }
   },
-  "TROADEC CHRISTIAN (candidature retirée depuis le 6 mars 2017)": {
+  "TROADEC CHRISTIAN": {
     "France Inter": {
       "Candidat": "0:04:52",
       "Soutiens": "0:00:00",
@@ -1000,82 +996,7 @@
       "Total Temps de parole": "0:21:01",
       "Antenne": "0:00:00",
       "Total Temps d'antenne": "0:21:01"
-    }
-  },
-  "BAYROU FRANCOIS (soutien d'E": {
-    " Macron à compter du 22 février)": {
-      "France Info": {
-        "Candidat": "0:00:00",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:00",
-        "Antenne": "0:03:00",
-        "Total Temps d'antenne": "0:03:00"
-      },
-      "France Musique": {
-        "Candidat": "0:01:03",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:01:03",
-        "Antenne": "0:00:00",
-        "Total Temps d'antenne": "0:01:03"
-      }
     },
-    " Macron à partir du 22/02/2017)": {
-      "Radio Classique": {
-        "Candidat": "0:00:00",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:00",
-        "Antenne": "0:00:47",
-        "Total Temps d'antenne": "0:00:47"
-      },
-      "BFM Business": {
-        "Candidat": "0:00:00",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:00",
-        "Antenne": "0:00:37",
-        "Total Temps d'antenne": "0:00:37"
-      },
-      "RMC": {
-        "Candidat": "0:28:01",
-        "Soutiens": "0:13:00",
-        "Total Temps de parole": "0:41:01",
-        "Antenne": "1:29:20",
-        "Total Temps d'antenne": "2:10:21"
-      },
-      "RTL": {
-        "Candidat": "1:01:56",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "1:01:56",
-        "Antenne": "0:03:55",
-        "Total Temps d'antenne": "1:05:51"
-      },
-      "Sud Radio": {
-        "Candidat": "0:00:00",
-        "Soutiens": "0:00:00",
-        "Total Temps de parole": "0:00:00",
-        "Antenne": "0:00:20",
-        "Total Temps d'antenne": "0:00:20"
-      }
-    }
-  },
-  "SMATI RAFIK": {
-    "France Info": {
-      "Candidat": "0:16:37",
-      "Soutiens": "0:00:00",
-      "Total Temps de parole": "0:16:37",
-      "Antenne": "0:00:00",
-      "Total Temps d'antenne": "0:16:37"
-    }
-  },
-  "GUYOT SEBASTIEN": {
-    "France Culture": {
-      "Candidat": "0:00:38",
-      "Soutiens": "0:00:00",
-      "Total Temps de parole": "0:00:38",
-      "Antenne": "0:00:00",
-      "Total Temps d'antenne": "0:00:38"
-    }
-  },
-  "TROADEC CHRISTIAN (retrait candidature à partir du 06/03/2017)": {
     "Radio Classique": {
       "Candidat": "0:00:15",
       "Soutiens": "0:00:00",
@@ -1096,6 +1017,75 @@
       "Total Temps de parole": "0:00:40",
       "Antenne": "0:00:00",
       "Total Temps d'antenne": "0:00:40"
+    }
+  },
+  "BAYROU FRANCOIS": {
+    "France Info": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:00",
+      "Antenne": "0:03:00",
+      "Total Temps d'antenne": "0:03:00"
+    },
+    "France Musique": {
+      "Candidat": "0:01:03",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:01:03",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:01:03"
+    },
+    "Radio Classique": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:00",
+      "Antenne": "0:00:47",
+      "Total Temps d'antenne": "0:00:47"
+    },
+    "BFM Business": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:00",
+      "Antenne": "0:00:37",
+      "Total Temps d'antenne": "0:00:37"
+    },
+    "RMC": {
+      "Candidat": "0:28:01",
+      "Soutiens": "0:13:00",
+      "Total Temps de parole": "0:41:01",
+      "Antenne": "1:29:20",
+      "Total Temps d'antenne": "2:10:21"
+    },
+    "RTL": {
+      "Candidat": "1:01:56",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "1:01:56",
+      "Antenne": "0:03:55",
+      "Total Temps d'antenne": "1:05:51"
+    },
+    "Sud Radio": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:00",
+      "Antenne": "0:00:20",
+      "Total Temps d'antenne": "0:00:20"
+    }
+  },
+  "SMATI RAFIK": {
+    "France Info": {
+      "Candidat": "0:16:37",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:16:37",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:16:37"
+    }
+  },
+  "GUYOT SEBASTIEN": {
+    "France Culture": {
+      "Candidat": "0:00:38",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:38",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:00:38"
     }
   },
   "BORIE JACQUES": {
@@ -1152,7 +1142,7 @@
       "Total Temps d'antenne": "0:16:18"
     }
   },
-  "VERNER MAXIME (retrait candidature à partir du 03/02/2017)": {
+  "VERNER MAXIME": {
     "RMC": {
       "Candidat": "0:00:16",
       "Soutiens": "0:00:00",
