@@ -1,0 +1,570 @@
+{
+  "BFM TV": {
+    "ALLIOT MARIE MICHELE": {
+      "Total candidats": "Candidat",
+      "59:06:27": "Soutiens",
+      "74:17:55": "Total Temps de parole",
+      "133:24:22": "Antenne",
+      "111:59:44": "Total Temps d'antenne",
+      "245:24:06": "Candidat",
+      "0:00:00": "Total Temps d'antenne"
+    },
+    "ARTHAUD NATHALIE": {
+      "Candidat": "0:17:34",
+      "Soutiens": "0:02:10",
+      "Total Temps de parole": "0:19:44",
+      "Antenne": "0:06:26",
+      "Total Temps d'antenne": "0:26:10"
+    },
+    "ASSELINEAU FRANCOIS": {
+      "Candidat": "0:24:48",
+      "Soutiens": "0:00:16",
+      "Total Temps de parole": "0:25:04",
+      "Antenne": "0:17:27",
+      "Total Temps d'antenne": "0:42:31"
+    },
+    "BAYROU FRANCOIS": {
+      "Candidat": "1:01:14",
+      "Soutiens": "0:02:37",
+      "Total Temps de parole": "1:03:51",
+      "Antenne": "0:45:33",
+      "Total Temps d'antenne": "1:49:24"
+    },
+    "CHEMINADE JACQUES": {
+      "Candidat": "0:11:57",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:11:57",
+      "Antenne": "0:04:49",
+      "Total Temps d'antenne": "0:16:46"
+    },
+    "DUPONT AIGNAN NICOLAS": {
+      "Candidat": "1:43:57",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "1:43:57",
+      "Antenne": "0:02:36",
+      "Total Temps d'antenne": "1:46:33"
+    },
+    "FILLON FRANCOIS": {
+      "Candidat": "10:11:49",
+      "Soutiens": "24:59:36",
+      "Total Temps de parole": "35:11:25",
+      "Antenne": "52:19:12",
+      "Total Temps d'antenne": "87:30:37"
+    },
+    "GUAINO HENRI": {
+      "Candidat": "2:15:37",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "2:15:37",
+      "Antenne": "0:04:33",
+      "Total Temps d'antenne": "2:20:10"
+    },
+    "HAMON BENOIT": {
+      "Candidat": "9:53:39",
+      "Soutiens": "18:31:07",
+      "Total Temps de parole": "28:24:46",
+      "Antenne": "15:24:59",
+      "Total Temps d'antenne": "43:49:45"
+    },
+    "JADOT YANNICK": {
+      "Candidat": "1:22:01",
+      "Soutiens": "0:07:05",
+      "Total Temps de parole": "1:29:06",
+      "Antenne": "0:02:45",
+      "Total Temps d'antenne": "1:31:51"
+    },
+    "JARDIN ALEXANDRE": {
+      "Candidat": "0:21:20",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:21:20",
+      "Antenne": "0:02:55",
+      "Total Temps d'antenne": "0:24:15"
+    },
+    "LARROUTUROU PIERRE": {
+      "Candidat": "0:13:09",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:13:09",
+      "Antenne": "0:00:07",
+      "Total Temps d'antenne": "0:13:16"
+    },
+    "LASSALLE JEAN": {
+      "Candidat": "0:16:07",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:16:07",
+      "Antenne": "0:01:10",
+      "Total Temps d'antenne": "0:17:17"
+    },
+    "LE PEN MARINE": {
+      "Candidat": "10:05:42",
+      "Soutiens": "13:27:12",
+      "Total Temps de parole": "23:32:54",
+      "Antenne": "16:30:49",
+      "Total Temps d'antenne": "40:03:43"
+    },
+    "MACRON EMMANUEL": {
+      "Candidat": "11:17:50",
+      "Soutiens": "11:16:13",
+      "Total Temps de parole": "22:34:03",
+      "Antenne": "20:55:43",
+      "Total Temps d'antenne": "43:29:46"
+    },
+    "MARCHANDISE CHARLOTTE": {
+      "Candidat": "0:12:06",
+      "Soutiens": "0:02:37",
+      "Total Temps de parole": "0:14:43",
+      "Antenne": "0:14:43",
+      "Total Temps d'antenne": "0:29:26"
+    },
+    "MELENCHON JEAN LUC": {
+      "Candidat": "7:25:53",
+      "Soutiens": "5:37:52",
+      "Total Temps de parole": "13:03:45",
+      "Antenne": "4:19:03",
+      "Total Temps d'antenne": "17:22:48"
+    },
+    "POUTOU PHILIPPE": {
+      "Candidat": "1:05:16",
+      "Soutiens": "0:09:01",
+      "Total Temps de parole": "1:14:17",
+      "Antenne": "0:29:45",
+      "Total Temps d'antenne": "1:44:02"
+    },
+    "TROADEC CHRISTIAN": {
+      "Candidat": "0:03:16",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:03:16",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:03:16"
+    },
+    "VELTZ BENOIT": {
+      "Candidat": "0:03:03",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:03:03",
+      "Antenne": "0:05:01",
+      "Total Temps d'antenne": "0:08:04"
+    }
+  },
+  "CNEWS": {
+    "ALLIOT MARIE MICHELE": {
+      "Total candidats": "Candidat",
+      "37:00:17": "Soutiens",
+      "43:02:10": "Total Temps de parole",
+      "80:02:27": "Antenne",
+      "86:18:01": "Total Temps d'antenne",
+      "166:20:28": "Candidat",
+      "0:05:09": "Antenne",
+      "0:00:00": "Total Temps de parole",
+      "0:05:19": "Total Temps d'antenne"
+    },
+    "ARTHAUD NATHALIE": {
+      "Candidat": "0:17:42",
+      "Soutiens": "0:00:21",
+      "Total Temps de parole": "0:18:03",
+      "Antenne": "0:03:41",
+      "Total Temps d'antenne": "0:21:44"
+    },
+    "ASSELINEAU FRANCOIS": {
+      "Candidat": "0:06:25",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:06:25",
+      "Antenne": "0:18:05",
+      "Total Temps d'antenne": "0:24:30"
+    },
+    "BAYROU FRANCOIS": {
+      "Candidat": "0:16:12",
+      "Soutiens": "0:13:38",
+      "Total Temps de parole": "0:29:50",
+      "Antenne": "0:53:10",
+      "Total Temps d'antenne": "1:23:00"
+    },
+    "CHEMINADE JACQUES": {
+      "Candidat": "0:00:45",
+      "Soutiens": "0:00:21",
+      "Total Temps de parole": "0:01:06",
+      "Antenne": "0:03:03",
+      "Total Temps d'antenne": "0:04:09"
+    },
+    "DUPONT AIGNAN NICOLAS": {
+      "Candidat": "1:13:40",
+      "Soutiens": "0:19:27",
+      "Total Temps de parole": "1:33:07",
+      "Antenne": "0:19:42",
+      "Total Temps d'antenne": "1:52:49"
+    },
+    "FAUDOT BASTIEN": {
+      "Candidat": "0:07:35",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:07:35",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:07:35"
+    },
+    "FILLON FRANCOIS": {
+      "Candidat": "6:15:03",
+      "Soutiens": "16:39:40",
+      "Total Temps de parole": "22:54:43",
+      "Antenne": "42:07:08",
+      "Total Temps d'antenne": "65:01:51"
+    },
+    "GUAINO HENRI": {
+      "Candidat": "0:23:31",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:23:31",
+      "Antenne": "0:02:45",
+      "Total Temps d'antenne": "0:26:16"
+    },
+    "HAMON BENOIT": {
+      "Candidat": "9:20:20",
+      "Soutiens": "8:31:18",
+      "Total Temps de parole": "17:51:38",
+      "Antenne": "10:16:48",
+      "Total Temps d'antenne": "28:08:26"
+    },
+    "JADOT YANNICK": {
+      "Candidat": "0:39:31",
+      "Soutiens": "0:11:16",
+      "Total Temps de parole": "0:50:47",
+      "Antenne": "0:03:44",
+      "Total Temps d'antenne": "0:54:31"
+    },
+    "JARDIN ALEXANDRE": {
+      "Candidat": "0:36:33",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:36:33",
+      "Antenne": "0:01:00",
+      "Total Temps d'antenne": "0:37:33"
+    },
+    "LARROUTUROU PIERRE": {
+      "Candidat": "0:03:04",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:03:04",
+      "Antenne": "0:00:30",
+      "Total Temps d'antenne": "0:03:34"
+    },
+    "LASSALLE JEAN": {
+      "Candidat": "0:23:32",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:23:32",
+      "Antenne": "0:00:19",
+      "Total Temps d'antenne": "0:23:51"
+    },
+    "LE PEN MARINE": {
+      "Candidat": "6:46:42",
+      "Soutiens": "5:28:51",
+      "Total Temps de parole": "12:15:33",
+      "Antenne": "12:00:20",
+      "Total Temps d'antenne": "24:15:53"
+    },
+    "MACRON EMMANUEL": {
+      "Candidat": "6:19:17",
+      "Soutiens": "9:16:47",
+      "Total Temps de parole": "15:36:04",
+      "Antenne": "15:26:38",
+      "Total Temps d'antenne": "31:02:42"
+    },
+    "MARCHANDISE CHARLOTTE": {
+      "Candidat": "0:00:00",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:00",
+      "Antenne": "0:00:30",
+      "Total Temps d'antenne": "0:00:30"
+    },
+    "MELENCHON JEAN LUC": {
+      "Candidat": "2:27:40",
+      "Soutiens": "2:19:54",
+      "Total Temps de parole": "4:47:34",
+      "Antenne": "4:24:05",
+      "Total Temps d'antenne": "9:11:39"
+    },
+    "POUTOU PHILIPPE": {
+      "Candidat": "0:21:43",
+      "Soutiens": "0:00:37",
+      "Total Temps de parole": "0:22:20",
+      "Antenne": "0:05:42",
+      "Total Temps d'antenne": "0:28:02"
+    },
+    "TROADEC CHRISTIAN": {
+      "Candidat": "0:04:04",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:04:04",
+      "Antenne": "0:00:30",
+      "Total Temps d'antenne": "0:04:34"
+    },
+    "VIGNE FRANCOIS": {
+      "Candidat": "0:06:50",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:06:50",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:06:50"
+    }
+  },
+  "LCI": {
+    "ALLIOT MARIE MICHELE": {
+      "Total candidats": "Candidat",
+      "86:14:54": "Soutiens",
+      "78:28:06": "Total Temps de parole",
+      "164:43:00": "Antenne",
+      "131:39:00": "Total Temps d'antenne",
+      "296:22:00": "Candidat",
+      "0:14:33": "Antenne",
+      "0:00:00": "Total Temps de parole",
+      "0:00:19": "Total Temps d'antenne"
+    },
+    "ARTHAUD NATHALIE": {
+      "Candidat": "0:24:04",
+      "Soutiens": "0:00:33",
+      "Total Temps de parole": "0:24:37",
+      "Antenne": "0:05:38",
+      "Total Temps d'antenne": "0:30:15"
+    },
+    "ASSELINEAU FRANCOIS": {
+      "Candidat": "0:05:07",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:05:07",
+      "Antenne": "0:15:40",
+      "Total Temps d'antenne": "0:20:47"
+    },
+    "BAYROU FRANCOIS": {
+      "Candidat": "1:16:44",
+      "Soutiens": "0:12:08",
+      "Total Temps de parole": "1:28:52",
+      "Antenne": "2:55:28",
+      "Total Temps d'antenne": "4:24:20"
+    },
+    "CHEMINADE JACQUES": {
+      "Candidat": "0:20:41",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:20:41",
+      "Antenne": "0:01:15",
+      "Total Temps d'antenne": "0:21:56"
+    },
+    "DUPONT AIGNAN NICOLAS": {
+      "Candidat": "2:50:59",
+      "Soutiens": "0:34:03",
+      "Total Temps de parole": "3:25:02",
+      "Antenne": "0:21:22",
+      "Total Temps d'antenne": "3:46:24"
+    },
+    "FILLON FRANCOIS": {
+      "Candidat": "12:35:10",
+      "Soutiens": "26:06:40",
+      "Total Temps de parole": "38:41:50",
+      "Antenne": "54:20:57",
+      "Total Temps d'antenne": "93:02:47"
+    },
+    "GUAINO HENRI": {
+      "Candidat": "1:11:09",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "1:11:09",
+      "Antenne": "0:02:21",
+      "Total Temps d'antenne": "1:13:30"
+    },
+    "HAMON BENOIT": {
+      "Candidat": "16:44:28",
+      "Soutiens": "9:43:14",
+      "Total Temps de parole": "26:27:42",
+      "Antenne": "12:17:37",
+      "Total Temps d'antenne": "38:45:19"
+    },
+    "JADOT YANNICK": {
+      "Candidat": "0:24:15",
+      "Soutiens": "1:42:06",
+      "Total Temps de parole": "2:06:21",
+      "Antenne": "0:26:52",
+      "Total Temps d'antenne": "2:33:13"
+    },
+    "JARDIN ALEXANDRE": {
+      "Candidat": "0:15:36",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:15:36",
+      "Antenne": "0:00:50",
+      "Total Temps d'antenne": "0:16:26"
+    },
+    "LARROUTUROU PIERRE": {
+      "Candidat": "0:14:53",
+      "Soutiens": "0:00:17",
+      "Total Temps de parole": "0:15:10",
+      "Antenne": "0:00:23",
+      "Total Temps d'antenne": "0:15:33"
+    },
+    "LASSALLE JEAN": {
+      "Candidat": "0:13:30",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:13:30",
+      "Antenne": "0:00:23",
+      "Total Temps d'antenne": "0:13:53"
+    },
+    "LE PEN MARINE": {
+      "Candidat": "16:52:12",
+      "Soutiens": "18:51:37",
+      "Total Temps de parole": "35:43:49",
+      "Antenne": "20:53:49",
+      "Total Temps d'antenne": "56:37:38"
+    },
+    "MACRON EMMANUEL": {
+      "Candidat": "19:24:53",
+      "Soutiens": "14:43:16",
+      "Total Temps de parole": "34:08:09",
+      "Antenne": "35:23:13",
+      "Total Temps d'antenne": "69:31:22"
+    },
+    "MARCHANDISE CHARLOTTE": {
+      "Candidat": "0:07:09",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:07:09",
+      "Antenne": "0:00:01",
+      "Total Temps d'antenne": "0:07:10"
+    },
+    "MELENCHON JEAN LUC": {
+      "Candidat": "12:10:16",
+      "Soutiens": "6:34:12",
+      "Total Temps de parole": "18:44:28",
+      "Antenne": "4:21:23",
+      "Total Temps d'antenne": "23:05:51"
+    },
+    "POUTOU PHILIPPE": {
+      "Candidat": "0:15:56",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:15:56",
+      "Antenne": "0:07:33",
+      "Total Temps d'antenne": "0:23:29"
+    },
+    "TROADEC CHRISTIAN": {
+      "Candidat": "0:00:09",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:00:09",
+      "Antenne": "0:00:12",
+      "Total Temps d'antenne": "0:00:21"
+    }
+  },
+  "FRANCEINFO": {
+    "ALLIOT MARIE MICHELE": {
+      "Total candidats": "Candidat",
+      "30:33:17": "Soutiens",
+      "31:54:08": "Total Temps de parole",
+      "62:27:25": "Antenne",
+      "96:35:30": "Total Temps d'antenne",
+      "159:02:55": "Candidat",
+      "0:30:45": "Antenne",
+      "0:00:00": "Total Temps de parole",
+      "0:00:59": "Total Temps d'antenne"
+    },
+    "ARTHAUD NATHALIE": {
+      "Candidat": "0:16:29",
+      "Soutiens": "0:26:15",
+      "Total Temps de parole": "0:42:44",
+      "Antenne": "0:21:10",
+      "Total Temps d'antenne": "1:03:54"
+    },
+    "ASSELINEAU FRANCOIS": {
+      "Candidat": "0:43:16",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:43:16",
+      "Antenne": "0:06:51",
+      "Total Temps d'antenne": "0:50:07"
+    },
+    "CHEMINADE JACQUES": {
+      "Candidat": "0:02:42",
+      "Soutiens": "0:00:14",
+      "Total Temps de parole": "0:02:56",
+      "Antenne": "0:01:29",
+      "Total Temps d'antenne": "0:04:25"
+    },
+    "DUPONT AIGNAN NICOLAS": {
+      "Candidat": "0:42:30",
+      "Soutiens": "0:17:34",
+      "Total Temps de parole": "1:00:04",
+      "Antenne": "0:30:04",
+      "Total Temps d'antenne": "1:30:08"
+    },
+    "FILLON FRANCOIS": {
+      "Candidat": "6:42:22",
+      "Soutiens": "13:15:11",
+      "Total Temps de parole": "19:57:33",
+      "Antenne": "53:51:10",
+      "Total Temps d'antenne": "73:48:43"
+    },
+    "GUAINO HENRI": {
+      "Candidat": "1:14:56",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "1:14:56",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "1:14:56"
+    },
+    "HAMON BENOIT": {
+      "Candidat": "5:01:00",
+      "Soutiens": "6:19:47",
+      "Total Temps de parole": "11:20:47",
+      "Antenne": "7:01:11",
+      "Total Temps d'antenne": "18:21:58"
+    },
+    "JADOT YANNICK": {
+      "Candidat": "0:36:16",
+      "Soutiens": "0:29:06",
+      "Total Temps de parole": "1:05:22",
+      "Antenne": "0:21:50",
+      "Total Temps d'antenne": "1:27:12"
+    },
+    "JARDIN ALEXANDRE": {
+      "Candidat": "0:16:39",
+      "Soutiens": "0:02:02",
+      "Total Temps de parole": "0:18:41",
+      "Antenne": "0:03:59",
+      "Total Temps d'antenne": "0:22:40"
+    },
+    "LARROUTUROU PIERRE": {
+      "Candidat": "0:06:52",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:06:52",
+      "Antenne": "0:02:43",
+      "Total Temps d'antenne": "0:09:35"
+    },
+    "LASSALLE JEAN": {
+      "Candidat": "0:33:57",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:33:57",
+      "Antenne": "0:00:13",
+      "Total Temps d'antenne": "0:34:10"
+    },
+    "LE PEN MARINE": {
+      "Candidat": "3:53:18",
+      "Soutiens": "2:30:48",
+      "Total Temps de parole": "6:24:06",
+      "Antenne": "16:18:00",
+      "Total Temps d'antenne": "22:42:06"
+    },
+    "MACRON EMMANUEL": {
+      "Candidat": "5:15:54",
+      "Soutiens": "5:59:44",
+      "Total Temps de parole": "11:15:38",
+      "Antenne": "15:10:29",
+      "Total Temps d'antenne": "26:26:07"
+    },
+    "MARCHANDISE CHARLOTTE": {
+      "Candidat": "0:53:27",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:53:27",
+      "Antenne": "0:00:14",
+      "Total Temps d'antenne": "0:53:41"
+    },
+    "MELENCHON JEAN LUC": {
+      "Candidat": "2:33:15",
+      "Soutiens": "2:08:45",
+      "Total Temps de parole": "4:42:00",
+      "Antenne": "2:34:56",
+      "Total Temps d'antenne": "7:16:56"
+    },
+    "POUTOU PHILIPPE": {
+      "Candidat": "0:55:23",
+      "Soutiens": "0:24:42",
+      "Total Temps de parole": "1:20:05",
+      "Antenne": "0:09:37",
+      "Total Temps d'antenne": "1:29:42"
+    },
+    "SMATI RAFIK": {
+      "Candidat": "0:05:31",
+      "Soutiens": "0:00:00",
+      "Total Temps de parole": "0:05:31",
+      "Antenne": "0:00:00",
+      "Total Temps d'antenne": "0:05:31"
+    }
+  }
+}

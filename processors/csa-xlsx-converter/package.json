@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "csa-xlsx-converter@1.1.1",
+        "scope": null,
+        "escapedName": "csa-xlsx-converter",
+        "name": "csa-xlsx-converter",
+        "rawSpec": "1.1.1",
+        "spec": "1.1.1",
+        "type": "version"
+      },
+      "/Applications/MAMP/htdocs/equite-parole-datas"
+    ]
+  ],
+  "_from": "csa-xlsx-converter@1.1.1",
+  "_id": "csa-xlsx-converter@1.1.1",
+  "_inCache": true,
+  "_location": "/csa-xlsx-converter",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/csa-xlsx-converter-1.1.1.tgz_1489215403340_0.9115011394023895"
+  },
+  "_npmUser": {
+    "name": "kanethornwyrd",
+    "email": "jean.cedric.t@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "csa-xlsx-converter@1.1.1",
+    "scope": null,
+    "escapedName": "csa-xlsx-converter",
+    "name": "csa-xlsx-converter",
+    "rawSpec": "1.1.1",
+    "spec": "1.1.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/csa-xlsx-converter/-/csa-xlsx-converter-1.1.1.tgz",
+  "_shasum": "c4b437c6fcec8dc011399db9340358d85f804b96",
+  "_shrinkwrap": null,
+  "_spec": "csa-xlsx-converter@1.1.1",
+  "_where": "/Applications/MAMP/htdocs/equite-parole-datas",
+  "author": {
+    "name": "Jean-cédric Thérond",
+    "email": "jean.cedric.t@gmail.com"
+  },
+  "bin": {
+    "csa-xlsx-converter": "./bin/csa-xlsx-converter"
+  },
+  "bugs": {
+    "url": "https://github.com/kane-thornwyrd/csa-xlsx-converter/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "shelljs": "^0.7.6",
+    "xlsx": "^0.8.7",
+    "yargs": "^7.0.1"
+  },
+  "description": "Convert CSA xlsx reports into json",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c4b437c6fcec8dc011399db9340358d85f804b96",
+    "tarball": "https://registry.npmjs.org/csa-xlsx-converter/-/csa-xlsx-converter-1.1.1.tgz"
+  },
+  "gitHead": "bd58ff2ff2425f5d5f3c6f900d9a8d4d4edf261b",
+  "homepage": "https://github.com/kane-thornwyrd/csa-xlsx-converter#readme",
+  "keywords": [
+    "csa",
+    "france",
+    "politics",
+    "media"
+  ],
+  "license": "GPL-3.0",
+  "main": "lib/main.js",
+  "maintainers": [
+    {
+      "name": "kanethornwyrd",
+      "email": "jean.cedric.t@gmail.com"
+    }
+  ],
+  "name": "csa-xlsx-converter",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kane-thornwyrd/csa-xlsx-converter.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "version": "1.1.1"
+}

@@ -1,0 +1,46 @@
+#!/usr/bin/env node
+'use strict';
+
+const XLSX = require('xlsx');
+const _ = require('lodash');
+const shell = require('shelljs');
+const converter = require('../lib/main');
+const path = require('path');
+
+
+const argv = require('yargs')
+    .usage('Usage: $0 -t [target] -o [output dir]')
+    .describe('t', 'target').alias('t', 'target').nargs('t', 1)
+    .describe('o', 'output directory').alias('o', 'output').nargs('o', 1)
+    .describe('p', 'output prefix').alias('p', 'prefix').nargs('p', 1)
+    .demandOption(['t', 'o'])
+    .example(
+      '$0 -t src/2017-02-01--2017-02-26/originaux/Chaines\ Gen\ -\ Période\ du\ 1er\ au\ 26\ février\ 2017.xlsx -o output',
+      'Output 2 files in the output directory: Chaines\ Gen\ -\ Période\ du\ 1er\ au\ 26\ février\ 2017.perPersona.json and Chaines\ Gen\ -\ Période\ du\ 1er\ au\ 26\ février\ 2017.perChannel.json'
+    )
+    .example(
+      `$0 -t src/2017-02-01--2017-02-26/originaux/Chaines\ Gen\ -\ Période\ du\ 1er\ au\ 26\ février\ 2017.xlsx -o output
+      -p api`,
+      'Output 2 files in the output directory: candidats-chaines.json and chaines-candidats.json'
+    )
+    .epilog('GPL-3.0 Jean-cédric Thérond')
+    .argv
+;
+
+const {
+  perPersona, perChannel
+} = converter(argv.t);
+
+const finalFilePrefix = argv.p || path.basename(argv.t);
+const filename = argv.p || path.basename(argv.t);
+
+if (!shell.test('-d', argv.o)) shell.mkdir('-p', argv.o);
+
+const finalFileNameA = `${argv.o}/${finalFilePrefix}candidats-chaines.json`
+const finalFileNameB = `${argv.o}/${finalFilePrefix}chaines-candidats.json`
+
+shell.touch(finalFileNameA);
+shell.touch(finalFileNameB);
+
+shell.ShellString(JSON.stringify(perPersona, null, 2)).to(finalFileNameA);
+shell.ShellString(JSON.stringify(perChannel, null, 2)).to(finalFileNameB);
