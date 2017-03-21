@@ -13,15 +13,15 @@ function hhmmss_to_seconds(string) {
   return seconds;
 }
 
-function mapping(value) {
-  const mapping = {
+function get_mapping(value = null) {
+  const get_mapping = {
     Candidat:  'candidat',
     Soutiens: 'soutiens',
     "Total Temps de parole":'total_temps_de_parole',
     Antenne: 'antenne',
     "Total Temps d'antenne": 'total_temps_antenne',
   }
-  return mapping[value];
+  return value === null ? get_mapping : get_mapping[value];
 }
 
 module.exports = function(filename) {
@@ -34,7 +34,7 @@ module.exports = function(filename) {
   // on va considérer que tout ce qui n'est pas une de ses clefs sera un prénom - nom
   // on aura aussi le "Total Candidat" avec, ce n'est pas très grave.
   // Ce "Total Candidat" est d'ailleurs parfois au début de la feuille, parfois à la fin...
-  const KEYS = ['Candidat', 'Soutiens', 'Total Temps de parole', "Total Temps d'antenne", "Antenne"];
+  const KEYS = Object.keys(get_mapping());
 
   channelLoop:
   // le fichier excel contient une feuille par canal / chaine
@@ -70,7 +70,7 @@ module.exports = function(filename) {
         // si on est sur une ligne qui ne contient PAS le nom du candidat
         else {
           let value = workbook.Sheets[canal][cell].v;
-          value = mapping(value);
+          value = get_mapping(value);
           attrs.push(value);
           continue;
         }
