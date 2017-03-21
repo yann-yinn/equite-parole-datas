@@ -1,34 +1,4 @@
 {
-  "Total candidats": {
-    "BFM TV": {
-      "Candidat": "59:06:27",
-      "Soutiens": "74:17:55",
-      "Total Temps de parole": "133:24:22",
-      "Antenne": "111:59:44",
-      "Total Temps d'antenne": "245:24:06"
-    },
-    "CNEWS": {
-      "Candidat": "37:00:17",
-      "Soutiens": "43:02:10",
-      "Total Temps de parole": "80:02:27",
-      "Antenne": "86:18:01",
-      "Total Temps d'antenne": "166:20:28"
-    },
-    "LCI": {
-      "Candidat": "86:14:54",
-      "Soutiens": "78:28:06",
-      "Total Temps de parole": "164:43:00",
-      "Antenne": "131:39:00",
-      "Total Temps d'antenne": "296:22:00"
-    },
-    "FRANCEINFO": {
-      "Candidat": "30:33:17",
-      "Soutiens": "31:54:08",
-      "Total Temps de parole": "62:27:25",
-      "Antenne": "96:35:30",
-      "Total Temps d'antenne": "159:02:55"
-    }
-  },
   "ALLIOT MARIE MICHELE": {
     "BFM TV": {
       "Candidat": "0:11:14",

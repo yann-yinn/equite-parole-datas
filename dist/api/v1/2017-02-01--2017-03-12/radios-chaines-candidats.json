@@ -1,12 +1,5 @@
 {
   "France Inter": {
-    "Total candidats": {
-      "Candidat": "6:38:18",
-      "Soutiens": "13:45:02",
-      "Total Temps de parole": "20:23:20",
-      "Antenne": "5:21:52",
-      "Total Temps d'antenne": "25:45:12"
-    },
     "ALLIOT MARIE MICHELE": {
       "Candidat": "0:00:30",
       "Soutiens": "0:00:00",
@@ -151,13 +144,6 @@
     }
   },
   "France Info": {
-    "Total candidats": {
-      "Candidat": "12:43:57",
-      "Soutiens": "37:15:11",
-      "Total Temps de parole": "49:59:08",
-      "Antenne": "15:44:39",
-      "Total Temps d'antenne": "65:43:47"
-    },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:01:56",
       "Soutiens": "0:04:48",
@@ -297,13 +283,6 @@
     }
   },
   "France Culture": {
-    "Total candidats": {
-      "Candidat": "2:51:59",
-      "Soutiens": "7:31:20",
-      "Total Temps de parole": "10:23:19",
-      "Antenne": "4:54:00",
-      "Total Temps d'antenne": "15:17:19"
-    },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:01:38",
       "Soutiens": "0:00:00",
@@ -420,13 +399,6 @@
     }
   },
   "France Musique": {
-    "Total candidats": {
-      "Candidat": "0:08:05",
-      "Soutiens": "0:10:02",
-      "Total Temps de parole": "0:18:07",
-      "Antenne": "1:26:55",
-      "Total Temps d'antenne": "1:45:02"
-    },
     "ASSELINEAU FRANCOIS": {
       "Candidat": "0:00:40",
       "Soutiens": "0:00:00",
@@ -496,13 +468,6 @@
     }
   },
   "Radio Classique": {
-    "Total candidats": {
-      "Candidat": "2:16:48",
-      "Soutiens": "6:37:14",
-      "Total Temps de parole": "8:54:02",
-      "Antenne": "2:43:20",
-      "Total Temps d'antenne": "11:37:22"
-    },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:09:45",
       "Soutiens": "0:00:00",
@@ -614,13 +579,6 @@
     }
   },
   "BFM Business": {
-    "Total candidats": {
-      "Candidat": "0:44:02",
-      "Soutiens": "8:06:15",
-      "Total Temps de parole": "8:50:17",
-      "Antenne": "23:46:55",
-      "Total Temps d'antenne": "32:37:12"
-    },
     "ASSELINEAU FRANCOIS": {
       "Candidat": "0:00:00",
       "Soutiens": "0:00:00",
@@ -676,13 +634,6 @@
     }
   },
   "RMC": {
-    "Total candidats": {
-      "Candidat": "14:33:02",
-      "Soutiens": "43:34:30",
-      "Total Temps de parole": "58:07:32",
-      "Antenne": "46:44:04",
-      "Total Temps d'antenne": "104:51:36"
-    },
     "ALLIOT MARIE MICHELE": {
       "Candidat": "1:41:42",
       "Soutiens": "0:00:00",
@@ -878,13 +829,6 @@
     }
   },
   "Europe 1": {
-    "Total candidats": {
-      "Candidat": "8:09:46",
-      "Soutiens": "11:15:12",
-      "Total Temps de parole": "19:24:58",
-      "Antenne": "12:07:23",
-      "Total Temps d'antenne": "31:32:21"
-    },
     "ALLIOT MARIE MICHELE": {
       "Candidat": "0:05:42",
       "Soutiens": "0:00:00",
@@ -994,13 +938,6 @@
     }
   },
   "RTL": {
-    "Total candidats": {
-      "Candidat": "7:52:55",
-      "Soutiens": "11:15:13",
-      "Total Temps de parole": "19:08:08",
-      "Antenne": "1:26:19",
-      "Total Temps d'antenne": "20:34:27"
-    },
     "ARTHAUD NATHALIE": {
       "Candidat": "0:05:39",
       "Soutiens": "0:00:00",
@@ -1105,13 +1042,6 @@
     }
   },
   "Sud Radio": {
-    "Total candidats": {
-      "Candidat": "3:05:53",
-      "Soutiens": "22:11:04",
-      "Total Temps de parole": "25:16:57",
-      "Antenne": "0:34:25",
-      "Total Temps d'antenne": "25:51:22"
-    },
     "ALLIOT MARIE MICHELE": {
       "Candidat": "0:44:08",
       "Soutiens": "0:00:00",

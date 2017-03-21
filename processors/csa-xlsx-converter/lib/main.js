@@ -26,9 +26,12 @@ module.exports = function(filename) {
         // si on est sur une ligne qui contient uniquement le nom du candidat
         if(ROWS.indexOf(workbook.Sheets[canal][cell].v) === -1) {
           if(persona) {
-            finalattrs = _.fromPairs(_.chunk(attrs,2));
-            _.set(perPersona, `${persona}.${canal}`, finalattrs);
-            _.set(perChannel, `${canal}.${persona}`, finalattrs);
+            // on ne veut pas la ligne du total des candidats dans notre json
+            if (persona !== 'Total candidats') {
+              finalattrs = _.fromPairs(_.chunk(attrs,2));
+              _.set(perPersona, `${persona}.${canal}`, finalattrs);
+              _.set(perChannel, `${canal}.${persona}`, finalattrs);
+            }
             attrs = [];
           }
           persona = workbook.Sheets[canal][cell].v;
