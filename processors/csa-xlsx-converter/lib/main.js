@@ -9,9 +9,9 @@ module.exports = function(filename) {
   const perPersona = {};
   const perChannel = {};
 
-  const PERSONA_RECOGNITION = /^([A-Z\s]+)(?:\s\(.+\))?$/;
-
   // on va considérer que tout ce qui n'est pas une de ses clefs sera un prénom - nom
+  // on aura le "Total Candidat" avec, il ne se trouve pas toujours
+  // au même endroit de feuille et ce n'est pas très grave
   const ROWS = ['Candidat', 'Soutiens', 'Total Temps de parole', "Total Temps d'antenne", "Antenne"]
 
   //const TOTAL_RECO = /^Total candidats/i;
