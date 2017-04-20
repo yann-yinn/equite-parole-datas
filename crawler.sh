@@ -19,7 +19,7 @@ do
   echo "Chaîne $CHAINE"
   echo "-----------------"
   echo ""
-  for VARIABLE in 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+  for VARIABLE in 1 2 3 4 5 6 7 8 9 10 11
   do
     FILE="http://www.csa.fr/csaelections/consultereleve/$CHAINE/$VARIABLE/1?csv=1"
     # on vérifie que le content type soit bien notre csv téléchargeable et pas une page html
